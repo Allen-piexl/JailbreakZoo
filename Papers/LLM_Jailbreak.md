@@ -1,22 +1,17 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
-[2024-03] 🌱 Exploring Safety Generalization Challenges of Large Language Models via Code [[Paper](https://arxiv.org/abs/2403.07865)]
+[2024-03-12] 🌱 Exploring Safety Generalization Challenges of Large Language Models via Code [[Paper](https://arxiv.org/pdf/2403.07865.pdf)]
 
-[2024-03] 🌱 AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks [[Paper](https://arxiv.org/abs/2403.04783)]
+[2024-02-28] 💕 Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction [[Paper](https://arxiv.org/pdf/2402.18104.pdf)]
 
-[2024-03] 🌱 Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes [[Paper](https://arxiv.org/abs/2403.00867)]
+[2024-02-26] 💕 CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/abs/2402.16717.pdf)][[Code](https://github.com/huizhang-L/CodeChameleon)]
 
-[2024-02] 💕 Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction [[Paper](https://arxiv.org/abs/2402.18104)]
+[2024-02-25] 💕 DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers [[Paper](https://arxiv.org/pdf/2402.16914.pdf)][[Code](https://github.com/xirui-li/DrAttack)]
 
-[2024-02] 💕 DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers [[Paper](https://arxiv.org/abs/2402.16914)]
+[2024-02-24] 💕 PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails [[Paper](https://arxiv.org/pdf/2402.15911.pdf)]
 
-[2024-02] 💕 GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models [[Paper](https://arxiv.org/abs/2402.03299)][[Code](https://github.com/Allen-piexl/GUARD)]
-
-[2024-02] 💕 CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/abs/2402.16717)]
-
-[2024-02] 💕 PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails [[Paper](https://arxiv.org/abs/2402.15911)]
-
+[2024-02-05] 💕 GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models [[Paper](https://arxiv.org/abs/2402.03299)][[Code](https://github.com/Allen-piexl/GUARD)]
 
 [2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]
 
