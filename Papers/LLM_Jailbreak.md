@@ -11,7 +11,7 @@
 
 [2024-02-24] 💕 PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails [[Paper](https://arxiv.org/pdf/2402.15911.pdf)]
 
-[2024-02-05] 💕 GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models [[Paper](https://arxiv.org/abs/2402.03299)][[Code](https://github.com/Allen-piexl/GUARD)]
+[2024-02-05] 💕 GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models [[Paper](https://arxiv.org/abs/2402.03299.pdf)][[Code](https://github.com/Allen-piexl/GUARD)]
 
 [2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]
 
