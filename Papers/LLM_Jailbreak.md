@@ -61,9 +61,36 @@
 
 [2024-01-18] ❄️ All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks [[Paper](https://arxiv.org/abs/2401.09798.pdf)][[Code](https://github.com/kztakemoto/simbaja)]
 
-[2024-01-17] ❄️ AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models [[Paper](https://arxiv.org/abs/2401.09002)][[Code](https://github.com/BWangCN/AttackEval)]
+[2024-01-17] ❄️ AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models [[Paper](https://arxiv.org/abs/2401.09002.pdf)][[Code](https://github.com/BWangCN/AttackEval)]
 
 [2024-01-12] ❄️ How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs [[Paper](https://arxiv.org/pdf/2401.06373.pdf)][[Code](https://github.com/CHATS-lab/persuasive_jailbreaker)]
+
+[2023-12-18] 🎄 A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models [[Paper](https://arxiv.org/abs/2312.10982.pdf)]
+
+[2023-12-07] 🎄 Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak [[Paper](https://arxiv.org/abs/2312.04127.pdf)]
+
+[2023-12-04] 🎄 Tree of Attacks: Jailbreaking Black-Box LLMs Automatically [[Paper](https://arxiv.org/abs/2312.02119.pdf)]
+[2023-12] 🌱 Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack [[Paper](https://arxiv.org/abs/2312.06924)]
+[2023-12] 🛡 A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection [[Paper](https://arxiv.org/abs/2312.10766)]
+[2023-12] 🌱 Adversarial Attacks on GPT-4 via Simple Random Search [[Paper](https://www.andriushchenko.me/gpt4adv.pdf)]
+
+[2023-12-08] 🎄 Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs [[Paper](https://arxiv.org/abs/2312.04782.pdf)][[Code](https://img.shields.io/badge/CodeGen-87b800)]
+
+[2023-11-21] 🦃 Goal-Oriented Prompt Attack and Safety Evaluation for LLMs [[Paper](https://arxiv.org/abs/2309.11830.pdf)][[Code](https://github.com/liuchengyuan123/CPAD)]
+
+
+[2023-11] 🌱 Query-Relevant Images Jailbreak Large Multi-Modal Models [[Paper](https://arxiv.org/abs/2311.17600)]
+[2023-11] 🌱 A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts Can Fool Large Language Models Easily [[Paper](https://arxiv.org/abs/2311.08268)]
+[2023-11] 🌱 Exploiting Large Language Models (LLMs) through Deception Techniques and Persuasion Principles [[Paper](https://arxiv.org/abs/2311.14876)]
+[2023-11] 🌱 Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks [[Paper](https://arxiv.org/abs/2302.05733)]
+[2023-11] 🌱 MART: Improving LLM Safety with Multi-round Automatic Red-Teaming [[Paper](https://arxiv.org/abs/2311.07689)]
+[2023-11] 🌱 Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation [[Paper](https://arxiv.org/abs/2311.03348)]
+[2023-11] 🛡 SneakyPrompt: Jailbreaking Text-to-image Generative Models [[Paper](https://arxiv.org/abs/2305.12082)][[Code](https://github.com/Yuchen413/text2image_safety)]
+[2023-11] 🌱 DeepInception: Hypnotize Large Language Model to Be Jailbreaker [[Paper](https://arxiv.org/abs/2311.03191)][[Code](https://github.com/tmlr-group/DeepInception?tab=readme-ov-file)]
+[2023-11] 🌱 Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition [[Paper](https://arxiv.org/abs/2311.16119)]
+[2023-11] 🌱 Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild [[Paper](https://arxiv.org/abs/2311.06237)]
+[2023-11] 🛡 Evil Geniuses: Delving into the Safety of LLM-based Agents [[Paper](https://arxiv.org/abs/2311.11855)][[Code](https://github.com/evil-genius-project/evil-genius)]
+[2023-11] 🌱 FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [[Paper](https://arxiv.org/abs/2311.05608)][[Code](https://github.com/ThuCCSLab/FigStep)]
 
 [2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]
 
