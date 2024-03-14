@@ -33,3 +33,15 @@
 
 [2023-11-13] 🦃 MART: Improving LLM Safety with Multi-round Automatic Red-Teaming [[Paper](https://arxiv.org/pdf/2311.07689.pdf)]
 
+[2023-10-09] 🎃 SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese [[Paper](https://arxiv.org/pdf/2310.05818.pdf)][[Code](https://www.cluebenchmarks.com/)]
+
+[2023-10-05] 🎃 SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [[Paper](https://arxiv.org/pdf/2310.03684.pdf)][[Code](https://github.com/arobey1/smooth-llm)]
+
+[2023-09-06] 🍂 Certifying LLM Safety against Adversarial Prompting [[Paper](https://arxiv.org/pdf/2309.02705.pdf)][[Code](https://github.com/aounon/certified-llm-safety)]
+
+[2023-09-01] 🍂 Baseline Defenses for Adversarial Attacks Against Aligned Language Models [[Paper](https://arxiv.org/pdf/2309.00614.pdf)][[Code](https://github.com/neelsjain/baseline-defenses)]
+
+[2023-08-27] 🌴 Detecting Language Model Attacks with Perplexity [[Paper](https://arxiv.org/pdf/2308.14132.pdf)]
+
+[2023-08-02] 🌴 XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models [[Paper](https://arxiv.org/pdf/2308.01263.pdf)][[Code](https://github.com/paul-rottger/exaggerated-safety)]
+
