@@ -37,11 +37,19 @@
 
 [2023-10-05] 🎃 SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [[Paper](https://arxiv.org/pdf/2310.03684.pdf)][[Code](https://github.com/arobey1/smooth-llm)]
 
+[2023-09-18] 🍂 Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM [[Paper](https://arxiv.org/pdf/2309.14348.pdf)][[Code](https://github.com/AAAAAAsuka/llm_defends)]
+
+[2023-09-14] 🍂 Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions [[Paper](https://arxiv.org/pdf/2309.07875.pdf)][[Code](https://github.com/vinid/safety-tuned-llamas)]
+
+[2023-09-13] 🍂 RAIN: Your Language Models Can Align Themselves without Finetuning [[Paper](https://arxiv.org/pdf/2309.07124.pdf)][[Code](https://github.com/SafeAILab/RAIN)]
+
 [2023-09-06] 🍂 Certifying LLM Safety against Adversarial Prompting [[Paper](https://arxiv.org/pdf/2309.02705.pdf)][[Code](https://github.com/aounon/certified-llm-safety)]
 
 [2023-09-01] 🍂 Baseline Defenses for Adversarial Attacks Against Aligned Language Models [[Paper](https://arxiv.org/pdf/2309.00614.pdf)][[Code](https://github.com/neelsjain/baseline-defenses)]
 
 [2023-08-27] 🌴 Detecting Language Model Attacks with Perplexity [[Paper](https://arxiv.org/pdf/2308.14132.pdf)]
+
+[2023-08-18] 🌴 Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment [[Paper](https://arxiv.org/pdf/2308.09662.pdf)][[Code](https://github.com/declare-lab/red-instruct)]
 
 [2023-08-02] 🌴 XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models [[Paper](https://arxiv.org/pdf/2308.01263.pdf)][[Code](https://github.com/paul-rottger/exaggerated-safety)]
 
