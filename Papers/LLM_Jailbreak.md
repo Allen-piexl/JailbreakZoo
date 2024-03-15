@@ -115,6 +115,18 @@
 
 [2023-08-07] 🌴 “Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models [[Paper](https://arxiv.org/pdf/2308.03825.pdf)][[Code](https://github.com/verazuo/jailbreak_llms)]
 
+[2023-07-27] 🍦 Universal and Transferable Adversarial Attacks on Aligned Language Models [[Paper](https://arxiv.org/pdf/2307.15043.pdf)][[Code](https://github.com/llm-attacks/llm-attacks)]
+
+[2023-07-20] 🍦 LLM Censorship: A Machine Learning Challenge Or A Computer Security Problem? [[Paper](https://arxiv.org/pdf/2307.10719.pdf)]
+
+[2023-07-16] 🍦 MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots [[Paper](https://arxiv.org/pdf/2307.08715.pdf)][[Code](https://sites.google.com/view/ndss-masterkey)]
+
+[2023-07-05] 🍦 Jailbroken: How Does LLM Safety Training Fail? [[Paper](https://arxiv.org/pdf/2307.02483.pdf)]
+
+[2023-07-01] 🍦 From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy [[Paper](https://ieeexplore.ieee.org/abstract/document/10198233)]
+
+[2023-06-22] ☀️ Visual Adversarial Examples Jailbreak Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2306.13213.pdf)][[Code](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models)]
+
 [2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]
 
 [2023-05-24] 🌺 Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks [[Paper](https://arxiv.org/pdf/2305.14965.pdf)][[Code](https://github.com/AetherPrior/TrickLLM)]
