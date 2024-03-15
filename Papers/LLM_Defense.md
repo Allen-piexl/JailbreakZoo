@@ -53,3 +53,5 @@
 
 [2023-08-02] 🌴 XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models [[Paper](https://arxiv.org/pdf/2308.01263.pdf)][[Code](https://github.com/paul-rottger/exaggerated-safety)]
 
+[2023-07-17] 🍦 Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models [[Paper](https://arxiv.org/pdf/2307.08487.pdf)][[Code](https://github.com/qiuhuachuan/latent-jailbreak)]
+
