@@ -63,6 +63,10 @@
 
 [2024-01-17] ❄️ AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models [[Paper](https://arxiv.org/pdf/2401.09002.pdf)][[Code](https://github.com/BWangCN/AttackEval)]
 
+[2024-01-16] ❄️ On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs [[Paper](https://openreview.net/pdf?id=H3UayAQWoE)][[Code](https://github.com/CUHK-ARISE/PsychoBench)]
+
+[2024-01-16] ❄️ Understanding Hidden Context in Preference Learning: Consequences for RLHF [[Paper](https://openreview.net/pdf?id=0tWTxYYPnW)]
+
 [2024-01-12] ❄️ How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs [[Paper](https://arxiv.org/pdf/2401.06373.pdf)][[Code](https://github.com/CHATS-lab/persuasive_jailbreaker)]
 
 [2023-12-18] 🎄 A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models [[Paper](https://arxiv.org/pdf/2312.10982.pdf)]
@@ -70,8 +74,6 @@
 [2023-12-07] 🎄 Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak [[Paper](https://arxiv.org/pdf/2312.04127.pdf)]
 
 [2023-12-04] 🎄 Tree of Attacks: Jailbreaking Black-Box LLMs Automatically [[Paper](https://arxiv.org/pdf/2312.02119.pdf)]
-
-[2023-12] 🌱 Adversarial Attacks on GPT-4 via Simple Random Search [[Paper](https://www.andriushchenko.me/gpt4adv.pdf)]
 
 [2023-12-08] 🎄 Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs [[Paper](https://arxiv.org/pdf/2312.04782.pdf)][[Code](https://img.shields.io/badge/CodeGen-87b800)]
 
@@ -81,9 +83,9 @@
 
 [2023-11-14] 🦃 A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts Can Fool Large Language Models Easily [[Paper](https://arxiv.org/pdf/2311.08268.pdf)][[Code](https://github.com/NJUNLP/ReNeLLM)]
 
-[2023-11-10] 🎃 Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild [[Paper](https://arxiv.org/pdf/2311.06237.pdf)]
+[2023-11-10] 🦃 Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild [[Paper](https://arxiv.org/pdf/2311.06237.pdf)]
 
-[2023-11-09] 🌱 FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [[Paper](https://arxiv.org/pdf/2311.05608.pdf)][[Code](https://github.com/ThuCCSLab/FigStep)]
+[2023-11-09] 🦃 FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [[Paper](https://arxiv.org/pdf/2311.05608.pdf)][[Code](https://github.com/ThuCCSLab/FigStep)]
 
 [2023-11-06] 🦃 Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation [[Paper](https://arxiv.org/pdf/2311.03348.pdf)]
 
@@ -105,20 +107,13 @@
 
 [2023-10-03] 🎃 AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2310.04451.pdf)][[Code](https://github.com/SheltonLiu-N/AutoDAN)]
 
-[2023-09] 🌱 Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models [[Paper](https://openreview.net/forum?id=plmBsXHxgR)]
-[2023-09] 🌱 Multilingual Jailbreak Challenges in Large Language Models [[Paper](https://openreview.net/forum?id=vESNKdEMGp)]
-[2023-09] 🌱 On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs [[Paper](https://openreview.net/forum?id=H3UayAQWoE)]
-[2023-09] 🛡 RAIN: Your Language Models Can Align Themselves without Finetuning [[Paper](https://openreview.net/forum?id=pETSfWMUzy)]
-[2023-09] 🛡 Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions [[Paper](https://openreview.net/forum?id=gT5hALch9z)]
-[2023-09] 🌱 Understanding Hidden Context in Preference Learning: Consequences for RLHF [[Paper](https://openreview.net/forum?id=0tWTxYYPnW)]
-[2023-09] 🛡 Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM [[Paper](https://arxiv.org/abs/2309.14348)]
-[2023-09] 🌱 FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models [[Paper](https://arxiv.org/abs/2309.05274)]
-[2023-09] 🌱 GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts [[Paper](https://arxiv.org/abs/2309.10253)][[Code](https://github.com/sherdencooper/GPTFuzz)]
-[2023-09] 🌱 Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper](https://arxiv.org/abs/2309.01446)]
-[2023-09] 🛡 Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment [[Paper](https://arxiv.org/abs/2308.09662)][[Code](https://github.com/declare-lab/red-instruct)]
+[2023-09-19] 🍂 GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts [[Paper](https://arxiv.org/pdf/2309.10253.pdf)][[Code](https://github.com/sherdencooper/GPTFuzz)]
+
+[2023-09-11] 🍂 FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models [[Paper](https://arxiv.org/pdf/2309.05274.pdf)][[Code](https://github.com/RainJamesY/FuzzLLM)]
+
+[2023-09-04] 🍂 Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper](https://arxiv.org/pdf/2309.01446.pdf)]
 
 [2023-08-07] 🌴 “Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models [[Paper](https://arxiv.org/pdf/2308.03825.pdf)][[Code](https://github.com/verazuo/jailbreak_llms)]
-
 
 [2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]
 
