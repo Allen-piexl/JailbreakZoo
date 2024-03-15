@@ -7,6 +7,10 @@
 
 [2024-02-03] 💕 Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models [[Paper](https://arxiv.org/pdf/2402.02207.pdf)][[Code](https://github.com/ys-zong/VLGuard)]
 
+[2024-01-16] ❄️ Multilingual Jailbreak Challenges in Large Language Models [[Paper](https://openreview.net/pdf?id=plmBsXHxgR)]
+
+[2023-12-21] 🎄 Adversarial Attacks on GPT-4 via Simple Random Search [[Paper](https://www.andriushchenko.me/gpt4adv.pdf)][[Code](https://github.com/max-andr/adversarial-random-search-gpt4)]
+
 [2023-12-17] 🎄 A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection [[Paper](https://arxiv.org/pdf/2312.10766.pdf)][[Code](https://github.com/shiningrain/JailGuard)]
 
 [2023-11-29] 🦃 MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2311.17600.pdf)]
