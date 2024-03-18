@@ -1,4 +1,4 @@
-# JailbreakingZoo：Large Model Jailbreak Repository
+# JailbreakingZoo：Survey, landscapes and horizons in large model jailbreakings
 
 ## Introduction
 
