@@ -15,7 +15,7 @@ This repository's contents are systematically organized according to a timeline,
 - [**Defenses of LLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/LLM_Defense.md): Explore the strategies and methods employed to defend large language models against various types of attacks.
 
 - [**Jailbreaks of VLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/VLM_Jailbreak.md): Learn about the vulnerabilities and jailbreaking approaches specific to vision language models.
-- 
+
 - [**Defenses of VLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/VLM_Defense.md): Understand the defense mechanisms designed for vision language models, including the most recent advancements and strategies.
 
 ## Contributing
