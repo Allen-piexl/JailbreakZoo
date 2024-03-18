@@ -3,16 +3,7 @@
 
 [2024-03-14] 🌱 AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting [Paper](https://arxiv.org/pdf/2402.08567.pdf)][[Code](https://github.com/rain305f/AdaShield)]
 
-
-[2024-02-13] 💕 Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast [[Paper](https://arxiv.org/pdf/2402.08567.pdf)][[Code](https://sail-sg.github.io/Agent-Smith/)]
-
-[2024-02-04] 💕 Jailbreaking Attack against Multimodal Large Language Model [[Paper](https://arxiv.org/pdf/2402.02309.pdf)][[Code](https://github.com/abc03570128/Jailbreaking-Attack-against-Multimodal-Large-Language-Model)]
-
 [2024-02-03] 💕 Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models [[Paper](https://arxiv.org/pdf/2402.02207.pdf)][[Code](https://github.com/ys-zong/VLGuard)]
-
-[2024-01-16] ❄️ Multilingual Jailbreak Challenges in Large Language Models [[Paper](https://openreview.net/pdf?id=plmBsXHxgR)]
-
-[2023-12-21] 🎄 Adversarial Attacks on GPT-4 via Simple Random Search [[Paper](https://www.andriushchenko.me/gpt4adv.pdf)][[Code](https://github.com/max-andr/adversarial-random-search-gpt4)]
 
 [2023-12-17] 🎄 A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection [[Paper](https://arxiv.org/pdf/2312.10766.pdf)][[Code](https://github.com/shiningrain/JailGuard)]
 
