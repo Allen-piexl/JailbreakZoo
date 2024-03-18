@@ -31,4 +31,5 @@ Thank you for visiting JailbreakingZoo. We hope this repository serves as a valu
 ## Acknowledgement
 
 Special thanks to our notable contributors: [**Haibo Jin**](https://github.com/Allen-piexl/), [**Leyang Hu**](https://github.com/Leon-Leyang), [**Xinuo Li**](https://github.com/monmonli), [**Peiyan Zhang**](https://github.com/Peiyance), [**Jun Zhuang**](https://github.com/junzhuang-code), and [**Haohan Wang**](https://github.com/HaohanWang). 
+
 *The ranking is in partial order.
