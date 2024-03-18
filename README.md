@@ -9,5 +9,5 @@ The repo related to the jailbreakings of large models (LMs), including large lan
 
 [Defense of LLMs(https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/LLM_Defense.md)]
 
-[Jailbreaks of LLMs(https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/VLM_Jailbreak.md)]
+[Jailbreaks of VLMs(https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/VLM_Jailbreak.md)]
 
