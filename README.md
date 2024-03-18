@@ -21,3 +21,7 @@ We welcome contributions from the community! Whether you're interested in adding
 This project is available under the [MIT License](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/LICENSE). Please refer to our citation guidelines if you wish to reference our work in your research or publications.
 
 Thank you for visiting JailbreakingZoo. We hope this repository serves as a valuable resource in your exploration of large model security.
+
+## Acknowledgement
+
+Haibo Jin(https://github.com/Allen-piexl/), Leyang Hu, Xinuo Li, Peiyan Zhang, Jun Zhuang, Haohan Wang
