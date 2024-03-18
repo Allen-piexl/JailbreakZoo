@@ -1,4 +1,4 @@
-# JailbreakingZoo：Survey, landscapes and horizons in large model jailbreakings
+# JailbreakingZoo：ailbreakingZoo: Survey, Landscapes, and Horizons in Large Model Jailbreaking
 
 ## Introduction
 
