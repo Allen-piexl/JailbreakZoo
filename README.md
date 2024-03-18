@@ -8,7 +8,7 @@ Welcome to JailbreakingZoo, a dedicated repository focused on the jailbreaking o
 
 - [**Jailbreaks of LLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/LLM_Jailbreak.md): Discover the techniques and case studies related to the jailbreaking of large language models.
 
-- [**Defense of LLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/LLM_Defense.md): Explore the strategies and methods employed to defend large language models against various types of attacks.
+- [**Defenses of LLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/LLM_Defense.md): Explore the strategies and methods employed to defend large language models against various types of attacks.
 
 - [**Jailbreaks of VLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/VLM_Jailbreak.md): Learn about the vulnerabilities and jailbreaking approaches specific to vision language models.
 
