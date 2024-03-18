@@ -137,5 +137,5 @@
 
 [2023-03-08] 🌱 Automatically Auditing Large Language Models via Discrete Optimization [[Paper](https://proceedings.mlr.press/v202/jones23a/jones23a.pdf)][[Code](https://github.com/ejones313/auditing-llms)]
 
-[2023-02-11] 💕 Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks [[Paper](https://arxiv.org/pdf/2302.05733.pdf)]![Black-Box](https://img.shields.io/badge/Black-Box)
+[2023-02-11] 💕 Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks [[Paper](https://arxiv.org/pdf/2302.05733.pdf)]![Blackbox](https://img.shields.io/badge/Blackbox)
 
