@@ -133,7 +133,7 @@
 
 [2023-05-23] 🌺 Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study [[Paper](https://arxiv.org/pdf/2305.13860.pdf)][[Code](https://sites.google.com/view/llm-jailbreak-study)]
 
-[2023-04-11] 🌸 Multi-step Jailbreaking Privacy Attacks on ChatGPT [[Paper](https://arxiv.org/pdf/2304.05197.pdf)][[Code](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)]
+[2023-04-11] 🌸 Multi-step Jailbreaking Privacy Attacks on ChatGPT [[Paper](https://arxiv.org/pdf/2304.05197.pdf)][[Code](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
 [2023-03-08] 🌱 Automatically Auditing Large Language Models via Discrete Optimization [[Paper](https://proceedings.mlr.press/v202/jones23a/jones23a.pdf)][[Code](https://github.com/ejones313/auditing-llms)]
 
