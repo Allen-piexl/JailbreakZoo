@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-03-14] 🌱 Images are Achilles’ Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2403.09792.pdf)]
+
 [2024-02-13] 💕 Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast [[Paper](https://arxiv.org/pdf/2402.08567.pdf)][[Code](https://sail-sg.github.io/Agent-Smith/)]
 
 [2024-02-04] 💕 Jailbreaking Attack against Multimodal Large Language Model [[Paper](https://arxiv.org/pdf/2402.02309.pdf)][[Code](https://github.com/abc03570128/Jailbreaking-Attack-against-Multimodal-Large-Language-Model)]
