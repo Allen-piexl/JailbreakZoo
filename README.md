@@ -24,4 +24,4 @@ Thank you for visiting JailbreakingZoo. We hope this repository serves as a valu
 
 ## Acknowledgement
 
-Haibo Jin(https://github.com/Allen-piexl/), Leyang Hu, Xinuo Li, Peiyan Zhang, Jun Zhuang, Haohan Wang
+[**Haibo Jin**](https://github.com/Allen-piexl/), Leyang Hu, Xinuo Li, Peiyan Zhang, Jun Zhuang, Haohan Wang
