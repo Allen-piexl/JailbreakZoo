@@ -19,4 +19,6 @@
 
 [2023-08-12] 🌴 GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher [[Paper](https://arxiv.org/pdf/2308.06463.pdf)][[Code](https://github.com/RobustNLP/CipherChat)]
 
+[2023-06-22] ☀️ Visual Adversarial Examples Jailbreak Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2306.13213.pdf)][[Code](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models)]
+
 [2023-05-20] 🦃 SneakyPrompt: Jailbreaking Text-to-image Generative Models [[Paper](https://arxiv.org/pdf/2305.12082.pdf)][[Code](https://github.com/Yuchen413/text2image_safety)]
