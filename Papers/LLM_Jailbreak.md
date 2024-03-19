@@ -125,8 +125,6 @@
 
 [2023-07-01] 🍦 From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy [[Paper](https://ieeexplore.ieee.org/abstract/document/10198233)]
 
-[2023-06-22] ☀️ Visual Adversarial Examples Jailbreak Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2306.13213.pdf)][[Code](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models)]
-
 [2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
 [2023-05-24] 🌺 Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks [[Paper](https://arxiv.org/pdf/2305.14965.pdf)][[Code](https://github.com/AetherPrior/TrickLLM)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
