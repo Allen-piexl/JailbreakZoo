@@ -129,7 +129,7 @@
 
 [2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]
 
-[2023-05-24] 🌺 Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks [[Paper](https://arxiv.org/pdf/2305.14965.pdf)][[Code](https://github.com/AetherPrior/TrickLLM)]
+[2023-05-24] 🌺 Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks [[Paper](https://arxiv.org/pdf/2305.14965.pdf)][[Code](https://github.com/AetherPrior/TrickLLM)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
 [2023-05-23] 🌺 Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study [[Paper](https://arxiv.org/pdf/2305.13860.pdf)][[Code](https://sites.google.com/view/llm-jailbreak-study)]
 
