@@ -8,6 +8,9 @@ Welcome to JailbreakingZoo, a dedicated repository focused on the jailbreaking o
 
 This repository's contents are systematically organized according to a timeline, with the latest update being March 14, 2024.
 
+## Tags
+
+
 ## Contents
 
 - [**Jailbreaks of LLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/LLM_Jailbreak.md): Discover the techniques and case studies related to the jailbreaking of large language models.
