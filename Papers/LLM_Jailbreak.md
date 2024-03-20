@@ -111,7 +111,7 @@
 
 [2023-09-11] 🍂 FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models [[Paper](https://arxiv.org/pdf/2309.05274.pdf)][[Code](https://github.com/RainJamesY/FuzzLLM)]
 
-[2023-09-04] 🍂 Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper](https://arxiv.org/pdf/2309.01446.pdf)]
+[2023-09-04] 🍂 Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper](https://arxiv.org/pdf/2309.01446.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
 [2023-08-07] 🌴 “Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models [[Paper](https://arxiv.org/pdf/2308.03825.pdf)][[Code](https://github.com/verazuo/jailbreak_llms)]
 
