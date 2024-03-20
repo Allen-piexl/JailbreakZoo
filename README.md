@@ -6,7 +6,9 @@ Welcome to JailbreakingZoo, a dedicated repository focused on the jailbreaking o
 
 ## Timeline
 
-This repository's contents are systematically organized according to a timeline, with the latest update being March 14, 2024.
+:fire::fire::fire:
+
+This repository's contents are systematically organized according to a timeline, with the latest update being March 18, 2024.
 
 
 ## Contents
