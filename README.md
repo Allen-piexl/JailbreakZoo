@@ -19,6 +19,8 @@ This repository's contents are systematically organized according to a timeline,
 
 - [**Defenses of VLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/VLM_Defense.md): Understand the defense mechanisms designed for vision language models, including the most recent advancements and strategies.
 
+## Badges
+
 ## Contributing
 
 We welcome contributions from the community! Whether you're interested in adding new research, improving existing documentation, or sharing your own jailbreak or defense strategies, your insights are valuable to us. Please check our [Contribution Guidelines](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/CONTRIBUTING.md) for more information on how you can get involved.
