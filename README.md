@@ -21,6 +21,10 @@ This repository's contents are systematically organized according to a timeline,
 
 ## Badges
 
+- Jailbreaks of LLMs: ![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue), ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen), ![Prompt-based](https://img.shields.io/badge/-Prompt--based-red), ![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange), ![Query-based](https://img.shields.io/badge/-Query--based-lightgrey), ![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen), ![Survey](https://img.shields.io/badge/-Survey-ff69b4)
+
+- Access: ![Blackbox](https://img.shields.io/badge/-Blackbox-black), ![Whitebox](https://img.shields.io/badge/-Whitebox-white)
+
 ## Contributing
 
 We welcome contributions from the community! Whether you're interested in adding new research, improving existing documentation, or sharing your own jailbreak or defense strategies, your insights are valuable to us. Please check our [Contribution Guidelines](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/CONTRIBUTING.md) for more information on how you can get involved.
