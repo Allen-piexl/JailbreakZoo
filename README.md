@@ -23,6 +23,12 @@ This repository's contents are systematically organized according to a timeline,
 
 - Jailbreaks of LLMs: ![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen) ![Prompt-based](https://img.shields.io/badge/-Prompt--based-red) ![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange) ![Query-based](https://img.shields.io/badge/-Query--based-lightgrey) ![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen) ![Survey](https://img.shields.io/badge/-Survey-ff69b4)
 
+- Defenses of LLMs
+
+- Jailbreaks of VLMs
+
+- Defenses of VLMs
+
 - Model Access: ![Blackbox](https://img.shields.io/badge/-Blackbox-black) ![Whitebox](https://img.shields.io/badge/-Whitebox-white)
 
 ## Contributing
