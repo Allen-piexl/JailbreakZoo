@@ -119,7 +119,7 @@
 
 [2023-07-20] 🍦 LLM Censorship: A Machine Learning Challenge Or A Computer Security Problem? [[Paper](https://arxiv.org/pdf/2307.10719.pdf)]
 
-[2023-07-16] 🍦 MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots [[Paper](https://arxiv.org/pdf/2307.08715.pdf)][[Code](https://sites.google.com/view/ndss-masterkey)]
+[2023-07-16] 🍦 MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots [[Paper](https://arxiv.org/pdf/2307.08715.pdf)][[Code](https://sites.google.com/view/ndss-masterkey)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
 [2023-07-05] 🍦 Jailbroken: How Does LLM Safety Training Fail? [[Paper](https://arxiv.org/pdf/2307.02483.pdf)]
 
