@@ -113,7 +113,7 @@
 
 [2023-08-07] 🌴 “Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models [[Paper](https://arxiv.org/pdf/2308.03825.pdf)][[Code](https://github.com/verazuo/jailbreak_llms)]
 
-[2023-07-27] 🍦 Universal and Transferable Adversarial Attacks on Aligned Language Models [[Paper](https://arxiv.org/pdf/2307.15043.pdf)][[Code](https://github.com/llm-attacks/llm-attacks)]
+[2023-07-27] 🍦 Universal and Transferable Adversarial Attacks on Aligned Language Models [[Paper](https://arxiv.org/pdf/2307.15043.pdf)][[Code](https://github.com/llm-attacks/llm-attacks)]![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Whitebox](https://img.shields.io/badge/-Whitebox-white)
 
 [2023-07-20] 🍦 LLM Censorship: A Machine Learning Challenge Or A Computer Security Problem? [[Paper](https://arxiv.org/pdf/2307.10719.pdf)]
 
