@@ -13,6 +13,8 @@
 
 [2023-11-15] 🦃 Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts [[Paper](https://arxiv.org/pdf/2311.09127.pdf)]
 
+[2023-11-09] 🦃 FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [[Paper](https://arxiv.org/pdf/2311.05608.pdf)][[Code](https://github.com/ThuCCSLab/FigStep)]
+
 [2023-10-03] 🎃 Low-Resource Languages Jailbreak GPT-4 [[Paper](https://arxiv.org/pdf/2310.02446.pdf)]
 
 [2023-09-25] 🍂 SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via Substitution [[Paper](https://arxiv.org/pdf/2309.14122.pdf)][[Code](https://github.com/Zjm1900/SurrogatePrompt)]
