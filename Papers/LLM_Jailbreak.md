@@ -107,7 +107,7 @@
 
 [2023-10-03] 🎃 AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2310.04451.pdf)][[Code](https://github.com/SheltonLiu-N/AutoDAN)]
 
-[2023-09-19] 🍂 GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts [[Paper](https://arxiv.org/pdf/2309.10253.pdf)][[Code](https://github.com/sherdencooper/GPTFuzz)]
+[2023-09-19] 🍂 GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts [[Paper](https://arxiv.org/pdf/2309.10253.pdf)][[Code](https://github.com/sherdencooper/GPTFuzz)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
 [2023-09-11] 🍂 FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models [[Paper](https://arxiv.org/pdf/2309.05274.pdf)][[Code](https://github.com/RainJamesY/FuzzLLM)]
 
