@@ -85,15 +85,15 @@
 
 [2023-11-10] 🦃 Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild [[Paper](https://arxiv.org/pdf/2311.06237.pdf)]
 
-[2023-11-06] 🦃 Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation [[Paper](https://arxiv.org/pdf/2311.03348.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-11-06] 🦃 Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation [[Paper](https://arxiv.org/pdf/2311.03348.pdf)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
-[2023-11-06] 🦃 DeepInception: Hypnotize Large Language Model to Be Jailbreaker [[Paper](https://arxiv.org/pdf/2311.03191.pdf)][[Code](https://github.com/tmlr-group/DeepInception?tab=readme-ov-file)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-11-06] 🦃 DeepInception: Hypnotize Large Language Model to Be Jailbreaker [[Paper](https://arxiv.org/pdf/2311.03191.pdf)][[Code](https://github.com/tmlr-group/DeepInception?tab=readme-ov-file)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
-[2023-10-24] 🎃 Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition [[Paper](https://arxiv.org/pdf/2311.16119.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-10-24] 🎃 Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition [[Paper](https://arxiv.org/pdf/2311.16119.pdf)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
 [2023-10-23] 🎃 AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2310.15140.pdf)][[Code](https://github.com/rotaryhammer/code-autodan)]
 
-[2023-10-19] 🎃 Attack Prompt Generation for Red Teaming and Defending Large Language Models [[Paper](https://arxiv.org/pdf/2310.12505.pdf)][[Code](https://github.com/Aatrox103/SAP)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-10-19] 🎃 Attack Prompt Generation for Red Teaming and Defending Large Language Models [[Paper](https://arxiv.org/pdf/2310.12505.pdf)][[Code](https://github.com/Aatrox103/SAP)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
 [2023-10-16] 🎃 Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attack [[Paper](https://arxiv.org/pdf/2310.10844.pdf)]
 
@@ -105,11 +105,11 @@
 
 [2023-10-03] 🎃 AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2310.04451.pdf)][[Code](https://github.com/SheltonLiu-N/AutoDAN)]
 
-[2023-09-19] 🍂 GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts [[Paper](https://arxiv.org/pdf/2309.10253.pdf)][[Code](https://github.com/sherdencooper/GPTFuzz)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-09-19] 🍂 GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts [[Paper](https://arxiv.org/pdf/2309.10253.pdf)][[Code](https://github.com/sherdencooper/GPTFuzz)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
 [2023-09-11] 🍂 FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models [[Paper](https://arxiv.org/pdf/2309.05274.pdf)][[Code](https://github.com/RainJamesY/FuzzLLM)]
 
-[2023-09-04] 🍂 Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper](https://arxiv.org/pdf/2309.01446.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-09-04] 🍂 Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[Paper](https://arxiv.org/pdf/2309.01446.pdf)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
 [2023-08-07] 🌴 “Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models [[Paper](https://arxiv.org/pdf/2308.03825.pdf)][[Code](https://github.com/verazuo/jailbreak_llms)]
 
@@ -117,21 +117,21 @@
 
 [2023-07-20] 🍦 LLM Censorship: A Machine Learning Challenge Or A Computer Security Problem? [[Paper](https://arxiv.org/pdf/2307.10719.pdf)]
 
-[2023-07-16] 🍦 MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots [[Paper](https://arxiv.org/pdf/2307.08715.pdf)][[Code](https://sites.google.com/view/ndss-masterkey)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-07-16] 🍦 MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots [[Paper](https://arxiv.org/pdf/2307.08715.pdf)][[Code](https://sites.google.com/view/ndss-masterkey)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
 [2023-07-05] 🍦 Jailbroken: How Does LLM Safety Training Fail? [[Paper](https://arxiv.org/pdf/2307.02483.pdf)]
 
 [2023-07-01] 🍦 From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy [[Paper](https://ieeexplore.ieee.org/abstract/document/10198233)]
 
-[2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-05-24] 🌺 Adversarial Demonstration Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2305.14950.pdf)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
-[2023-05-24] 🌺 Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks [[Paper](https://arxiv.org/pdf/2305.14965.pdf)][[Code](https://github.com/AetherPrior/TrickLLM)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-05-24] 🌺 Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks [[Paper](https://arxiv.org/pdf/2305.14965.pdf)][[Code](https://github.com/AetherPrior/TrickLLM)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
 [2023-05-23] 🌺 Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study [[Paper](https://arxiv.org/pdf/2305.13860.pdf)][[Code](https://sites.google.com/view/llm-jailbreak-study)]
 
-[2023-04-11] 🌸 Multi-step Jailbreaking Privacy Attacks on ChatGPT [[Paper](https://arxiv.org/pdf/2304.05197.pdf)][[Code](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-04-11] 🌸 Multi-step Jailbreaking Privacy Attacks on ChatGPT [[Paper](https://arxiv.org/pdf/2304.05197.pdf)][[Code](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
 [2023-03-08] 🌱 Automatically Auditing Large Language Models via Discrete Optimization [[Paper](https://proceedings.mlr.press/v202/jones23a/jones23a.pdf)][[Code](https://github.com/ejones313/auditing-llms)]
 
-[2023-02-11] 💕 Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks [[Paper](https://arxiv.org/pdf/2302.05733.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
+[2023-02-11] 💕 Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks [[Paper](https://arxiv.org/pdf/2302.05733.pdf)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
