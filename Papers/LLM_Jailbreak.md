@@ -85,17 +85,15 @@
 
 [2023-11-10] 🦃 Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild [[Paper](https://arxiv.org/pdf/2311.06237.pdf)]
 
-[2023-11-09] 🦃 FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [[Paper](https://arxiv.org/pdf/2311.05608.pdf)][[Code](https://github.com/ThuCCSLab/FigStep)]
+[2023-11-06] 🦃 Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation [[Paper](https://arxiv.org/pdf/2311.03348.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
-[2023-11-06] 🦃 Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation [[Paper](https://arxiv.org/pdf/2311.03348.pdf)]
+[2023-11-06] 🦃 DeepInception: Hypnotize Large Language Model to Be Jailbreaker [[Paper](https://arxiv.org/pdf/2311.03191.pdf)][[Code](https://github.com/tmlr-group/DeepInception?tab=readme-ov-file)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
-[2023-11-06] 🦃 DeepInception: Hypnotize Large Language Model to Be Jailbreaker [[Paper](https://arxiv.org/pdf/2311.03191.pdf)][[Code](https://github.com/tmlr-group/DeepInception?tab=readme-ov-file)]
-
-[2023-10-24] 🎃 Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition [[Paper](https://arxiv.org/pdf/2311.16119.pdf)]
+[2023-10-24] 🎃 Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition [[Paper](https://arxiv.org/pdf/2311.16119.pdf)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
 [2023-10-23] 🎃 AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models [[Paper](https://arxiv.org/pdf/2310.15140.pdf)][[Code](https://github.com/rotaryhammer/code-autodan)]
 
-[2023-10-19] 🎃 Attack Prompt Generation for Red Teaming and Defending Large Language Models [[Paper](https://arxiv.org/pdf/2310.12505.pdf)][[Code](https://github.com/Aatrox103/SAP)]
+[2023-10-19] 🎃 Attack Prompt Generation for Red Teaming and Defending Large Language Models [[Paper](https://arxiv.org/pdf/2310.12505.pdf)][[Code](https://github.com/Aatrox103/SAP)]![Blackbox](https://img.shields.io/badge/blackbox-blue)
 
 [2023-10-16] 🎃 Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attack [[Paper](https://arxiv.org/pdf/2310.10844.pdf)]
 
