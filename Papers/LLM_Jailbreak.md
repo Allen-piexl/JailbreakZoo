@@ -5,7 +5,7 @@
 
 [2024-03-18] 🌱 EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2403.12171.pdf)][[Code](https://github.com/EasyJailbreak/EasyJailbreak)]
 
-[2024-03-13] 🌱 Tastle: Distract Large Language Models for Automatic Jailbreak Attack [[Paper](https://arxiv.org/pdf/2403.08424.pdf)][]
+[2024-03-13] 🌱 Tastle: Distract Large Language Models for Automatic Jailbreak Attack [[Paper](https://arxiv.org/pdf/2403.08424.pdf)]
 
 [2024-03-12] 🌱 Exploring Safety Generalization Challenges of Large Language Models via Code [[Paper](https://arxiv.org/pdf/2403.07865.pdf)]
 
