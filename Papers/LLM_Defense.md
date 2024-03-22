@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-03-21] 🌱 Detoxifying Large Language Models via Knowledge Editing [[Paper](https://arxiv.org/pdf/2403.14472.pdf)][[Code](https://github.com/zjunlp/EasyEdit)]
+
 [2024-03-02] 🌱 AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2403.04783)][[Code](https://github.com/XHMY/AutoDefense)]
 
 [2024-03-01] 🌱 Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes [[Paper](https://arxiv.org/pdf/2403.00867.pdf)][[Code](https://huggingface.co/spaces/TrustSafeAI/GradientCuff-Jailbreak-Defense)]
