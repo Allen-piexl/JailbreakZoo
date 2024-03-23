@@ -38,25 +38,26 @@
 
 [2024-02-16] 💕 Jailbreaking Proprietary Large Language Models using Word Substitution Cipher [[Paper](https://arxiv.org/pdf/2402.10601.pdf)]![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
-[2024-02-16] 💕 ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages [[Paper](https://arxiv.org/pdf/2402.10753.pdf)][[Code](https://github.com/Junjie-Ye/ToolSword)]
+[2024-02-16] 💕 ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages [[Paper](https://arxiv.org/pdf/2402.10753.pdf)][[Code](https://github.com/Junjie-Ye/ToolSword)]![Query-based](https://img.shields.io/badge/-Query--based-lightgrey) ![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-02-15] 💕 A StrongREJECT for Empty Jailbreaks [[Paper](https://arxiv.org/pdf/2402.10260.pdf)][[Code](https://github.com/alexandrasouly/strongreject)]
+[2024-02-15] 💕 A StrongREJECT for Empty Jailbreaks [[Paper](https://arxiv.org/pdf/2402.10260.pdf)][[Code](https://github.com/alexandrasouly/strongreject)]![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-02-15] 💕 PAL: Proxy-Guided Black-Box Attack on Large Language Models [[Paper](https://arxiv.org/pdf/2402.09674.pdf)][[Code](https://github.com/chawins/pal)]
+[2024-02-15] 💕 PAL: Proxy-Guided Black-Box Attack on Large Language Models [[Paper](https://arxiv.org/pdf/2402.09674.pdf)][[Code](https://github.com/chawins/pal)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
-[2024-02-14] 💕 Attacking Large Language Models with Projected Gradient Descent [[Paper](https://arxiv.org/pdf/2402.09154.pdf)]
+[2024-02-14] 💕 Attacking Large Language Models with Projected Gradient Descent [[Paper](https://arxiv.org/pdf/2402.09154.pdf)]![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
-[2024-02-14] 💕 Play Guessing Game with LLM: Indirect Jailbreak Attack with Implicit Clues [[Paper](https://arxiv.org/pdf/2402.09091.pdf)]
+[2024-02-14] 💕 Play Guessing Game with LLM: Indirect Jailbreak Attack with Implicit Clues [[Paper](https://arxiv.org/pdf/2402.09091.pdf)]![Query-based](https://img.shields.io/badge/-Query--based-lightgrey)
 
-[2024-02-13] 💕 COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability [[Paper](https://arxiv.org/pdf/2402.08679.pdf)][[Code](https://github.com/Yu-Fangxu/COLD-Attack)]
+[2024-02-13] 💕 COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability [[Paper](https://arxiv.org/pdf/2402.08679.pdf)][[Code](https://github.com/Yu-Fangxu/COLD-Attack)]![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-02-13] 💕 Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning [[Paper](https://arxiv.org/pdf/2402.08416.pdf)]
+[2024-02-13] 💕 Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning [[Paper](https://arxiv.org/pdf/2402.08416.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
-[2024-02-08] 💕 Comprehensive Assessment of Jailbreak Attacks Against LLMs [[Paper](https://arxiv.org/pdf/2402.05668.pdf)]
+[2024-02-08] 💕 Comprehensive Assessment of Jailbreak Attacks Against LLMs [[Paper](https://arxiv.org/pdf/2402.05668.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-02-06] 💕 HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal [[Paper](https://arxiv.org/pdf/2402.04249.pdf)][[Code](https://github.com/centerforaisafety/HarmBench)]
+[2024-02-06] 💕 HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal [[Paper](https://arxiv.org/pdf/2402.04249.pdf)][[Code](https://github.com/centerforaisafety/HarmBench)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-02-05] 💕 GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models [[Paper](https://arxiv.org/pdf/2402.03299.pdf)][[Code](https://github.com/Allen-piexl/GUARD)]
+[2024-02-05] 💕 GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models [[Paper](https://arxiv.org/pdf/2402.03299.pdf)][[Code](https://github.com/Allen-piexl/GUARD)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
+
 
 [2024-01-30] ❄️ A Cross-Language Investigation into Jailbreak Attacks in Large Language Models [[Paper](https://arxiv.org/pdf/2401.16765.pdf)]
 
