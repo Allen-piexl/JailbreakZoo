@@ -88,13 +88,15 @@
 
 [2023-12-08] 🎄 Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs [[Paper](https://arxiv.org/pdf/2312.04782.pdf)][[Code](https://img.shields.io/badge/CodeGen-87b800)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
-[2023-11-24] 🦃 Exploiting Large Language Models (LLMs) through Deception Techniques and Persuasion Principles [[Paper](https://arxiv.org/pdf/2311.14876.pdf)]
+[2023-11-24] 🦃 Exploiting Large Language Models (LLMs) through Deception Techniques and Persuasion Principles [[Paper](https://arxiv.org/pdf/2311.14876.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
-[2023-11-21] 🦃 Goal-Oriented Prompt Attack and Safety Evaluation for LLMs [[Paper](https://arxiv.org/pdf/2309.11830.pdf)][[Code](https://github.com/liuchengyuan123/CPAD)]
+[2023-11-21] 🦃 Goal-Oriented Prompt Attack and Safety Evaluation for LLMs [[Paper](https://arxiv.org/pdf/2309.11830.pdf)][[Code](https://github.com/liuchengyuan123/CPAD)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2023-11-14] 🦃 A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts Can Fool Large Language Models Easily [[Paper](https://arxiv.org/pdf/2311.08268.pdf)][[Code](https://github.com/NJUNLP/ReNeLLM)]
 
-[2023-11-10] 🦃 Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild [[Paper](https://arxiv.org/pdf/2311.06237.pdf)]
+[2023-11-14] 🦃 A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts Can Fool Large Language Models Easily [[Paper](https://arxiv.org/pdf/2311.08268.pdf)][[Code](https://github.com/NJUNLP/ReNeLLM)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
+
+[2023-11-10] 🦃 Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild [[Paper](https://arxiv.org/pdf/2311.06237.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
+
 
 [2023-11-06] 🦃 Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation [[Paper](https://arxiv.org/pdf/2311.03348.pdf)]![Blackbox](https://img.shields.io/badge/-Blackbox-black)
 
