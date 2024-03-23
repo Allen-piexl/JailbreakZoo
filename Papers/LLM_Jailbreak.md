@@ -9,13 +9,14 @@
 
 [2024-03-12] 🌱 Exploring Safety Generalization Challenges of Large Language Models via Code [[Paper](https://arxiv.org/pdf/2403.07865.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
-[2024-02-28] 💕 Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction [[Paper](https://arxiv.org/pdf/2402.18104.pdf)][[Code](https://sites.google.com/view/dra-jailbreak/)]
+[2024-02-28] 💕 Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction [[Paper](https://arxiv.org/pdf/2402.18104.pdf)][[Code](https://sites.google.com/view/dra-jailbreak/)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
-[2024-02-26] 💕 CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2402.16717.pdf)][[Code](https://github.com/huizhang-L/CodeChameleon)]
+[2024-02-26] 💕 CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2402.16717.pdf)][[Code](https://github.com/huizhang-L/CodeChameleon)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
-[2024-02-25] 💕 From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings [[Paper](https://arxiv.org/pdf/2402.16006.pdf)]
+[2024-02-25] 💕 From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings [[Paper](https://arxiv.org/pdf/2402.16006.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
-[2024-02-25] 💕 DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers [[Paper](https://arxiv.org/pdf/2402.16914.pdf)][[Code](https://github.com/xirui-li/DrAttack)]
+[2024-02-25] 💕 DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers [[Paper](https://arxiv.org/pdf/2402.16914.pdf)][[Code](https://github.com/xirui-li/DrAttack)]![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
+
 
 [2024-02-24] 💕 PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails [[Paper](https://arxiv.org/pdf/2402.15911.pdf)]
 
