@@ -1,9 +1,9 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
-[2024-03-19] 🌱 RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content[[Paper](https://arxiv.org/pdf/2403.13031.pdf)]
+[2024-03-19] 🌱 RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content[[Paper](https://arxiv.org/pdf/2403.13031.pdf)]![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
-[2024-03-18] 🌱 EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2403.12171.pdf)][[Code](https://github.com/EasyJailbreak/EasyJailbreak)]
+[2024-03-18] 🌱 EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2403.12171.pdf)][[Code](https://github.com/EasyJailbreak/EasyJailbreak)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
 [2024-03-13] 🌱 Tastle: Distract Large Language Models for Automatic Jailbreak Attack [[Paper](https://arxiv.org/pdf/2403.08424.pdf)]
 
