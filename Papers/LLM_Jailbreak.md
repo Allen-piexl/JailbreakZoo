@@ -5,9 +5,9 @@
 
 [2024-03-18] 🌱 EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2403.12171.pdf)][[Code](https://github.com/EasyJailbreak/EasyJailbreak)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-03-13] 🌱 Tastle: Distract Large Language Models for Automatic Jailbreak Attack [[Paper](https://arxiv.org/pdf/2403.08424.pdf)]
+[2024-03-13] 🌱 Tastle: Distract Large Language Models for Automatic Jailbreak Attack [[Paper](https://arxiv.org/pdf/2403.08424.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
-[2024-03-12] 🌱 Exploring Safety Generalization Challenges of Large Language Models via Code [[Paper](https://arxiv.org/pdf/2403.07865.pdf)]
+[2024-03-12] 🌱 Exploring Safety Generalization Challenges of Large Language Models via Code [[Paper](https://arxiv.org/pdf/2403.07865.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
 [2024-02-28] 💕 Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction [[Paper](https://arxiv.org/pdf/2402.18104.pdf)][[Code](https://sites.google.com/view/dra-jailbreak/)]
 
