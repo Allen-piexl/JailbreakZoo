@@ -59,31 +59,34 @@
 [2024-02-05] 💕 GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models [[Paper](https://arxiv.org/pdf/2402.03299.pdf)][[Code](https://github.com/Allen-piexl/GUARD)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
 
-[2024-01-30] ❄️ A Cross-Language Investigation into Jailbreak Attacks in Large Language Models [[Paper](https://arxiv.org/pdf/2401.16765.pdf)]
+[2024-01-30] ❄️ A Cross-Language Investigation into Jailbreak Attacks in Large Language Models [[Paper](https://arxiv.org/pdf/2401.16765.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-01-30] ❄️ Weak-to-Strong Jailbreaking on Large Language Models [[Paper](https://arxiv.org/pdf/2401.17256.pdf)][[Code](https://github.com/XuandongZhao/weak-to-strong)]
 
-[2024-01-22] ❄️ PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety [[Paper](https://arxiv.org/pdf/2401.11880.pdf)][[Code](https:/github.com/AI4Good24/PsySafe)]
+[2024-01-30] ❄️ Weak-to-Strong Jailbreaking on Large Language Models [[Paper](https://arxiv.org/pdf/2401.17256.pdf)][[Code](https://github.com/XuandongZhao/weak-to-strong)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-01-19] ❄️ Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models [[Paper](https://arxiv.org/pdf/2401.10647.pdf)][[Code](https://huggingface.co/datasets/SoftMINER-Group/NicheHazardQA)]
+[2024-01-22] ❄️ PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety [[Paper](https://arxiv.org/pdf/2401.11880.pdf)][[Code](https:/github.com/AI4Good24/PsySafe)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-01-18] ❄️ All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2401.09798.pdf)][[Code](https://github.com/kztakemoto/simbaja)]
+[2024-01-19] ❄️ Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models [[Paper](https://arxiv.org/pdf/2401.10647.pdf)][[Code](https://huggingface.co/datasets/SoftMINER-Group/NicheHazardQA)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-01-17] ❄️ AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models [[Paper](https://arxiv.org/pdf/2401.09002.pdf)][[Code](https://github.com/BWangCN/AttackEval)]
 
-[2024-01-16] ❄️ On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs [[Paper](https://openreview.net/pdf?id=H3UayAQWoE)][[Code](https://github.com/CUHK-ARISE/PsychoBench)]
+[2024-01-18] ❄️ All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2401.09798.pdf)][[Code](https://github.com/kztakemoto/simbaja)]![Query-based](https://img.shields.io/badge/-Query--based-lightgrey)
 
-[2024-01-16] ❄️ Understanding Hidden Context in Preference Learning: Consequences for RLHF [[Paper](https://openreview.net/pdf?id=0tWTxYYPnW)]
+[2024-01-17] ❄️ AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models [[Paper](https://arxiv.org/pdf/2401.09002.pdf)][[Code](https://github.com/BWangCN/AttackEval)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-01-12] ❄️ How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs [[Paper](https://arxiv.org/pdf/2401.06373.pdf)][[Code](https://github.com/CHATS-lab/persuasive_jailbreaker)]
 
-[2023-12-18] 🎄 A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models [[Paper](https://arxiv.org/pdf/2312.10982.pdf)]
+[2024-01-16] ❄️ On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs [[Paper](https://openreview.net/pdf?id=H3UayAQWoE)][[Code](https://github.com/CUHK-ARISE/PsychoBench)]![Query-based](https://img.shields.io/badge/-Query--based-lightgrey)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2023-12-07] 🎄 Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak [[Paper](https://arxiv.org/pdf/2312.04127.pdf)]
+[2024-01-16] ❄️ Understanding Hidden Context in Preference Learning: Consequences for RLHF [[Paper](https://openreview.net/pdf?id=0tWTxYYPnW)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
-[2023-12-04] 🎄 Tree of Attacks: Jailbreaking Black-Box LLMs Automatically [[Paper](https://arxiv.org/pdf/2312.02119.pdf)]
+[2024-01-12] ❄️ How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs [[Paper](https://arxiv.org/pdf/2401.06373.pdf)][[Code](https://github.com/CHATS-lab/persuasive_jailbreaker)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
-[2023-12-08] 🎄 Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs [[Paper](https://arxiv.org/pdf/2312.04782.pdf)][[Code](https://img.shields.io/badge/CodeGen-87b800)]
+[2023-12-18] 🎄 A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models [[Paper](https://arxiv.org/pdf/2312.10982.pdf)]![Survey](https://img.shields.io/badge/-Survey-ff69b4)
+
+[2023-12-07] 🎄 Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak [[Paper](https://arxiv.org/pdf/2312.04127.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
+
+[2023-12-04] 🎄 Tree of Attacks: Jailbreaking Black-Box LLMs Automatically [[Paper](https://arxiv.org/pdf/2312.02119.pdf)]![Query-based](https://img.shields.io/badge/-Query--based-lightgrey)
+
+[2023-12-08] 🎄 Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs [[Paper](https://arxiv.org/pdf/2312.04782.pdf)][[Code](https://img.shields.io/badge/CodeGen-87b800)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
 [2023-11-24] 🦃 Exploiting Large Language Models (LLMs) through Deception Techniques and Persuasion Principles [[Paper](https://arxiv.org/pdf/2311.14876.pdf)]
 
