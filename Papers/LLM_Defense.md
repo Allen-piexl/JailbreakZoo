@@ -3,6 +3,8 @@
 
 [2024-03-21] 🌱 Detoxifying Large Language Models via Knowledge Editing [[Paper](https://arxiv.org/pdf/2403.14472.pdf)][[Code](https://github.com/zjunlp/EasyEdit)]
 
+[2024-03-20] 🌱 Jailbreaking is Best Solved by Definition [[Paper](https://arxiv.org/pdf/2403.14725.pdf)][[Code](https://github.com/kothasuhas/purple-problem)]
+
 [2024-03-04] 🌱 On Prompt-Driven Safeguarding for Large Language Models [[Paper](https://arxiv.org/pdf/2401.18018.pdf)][[Code](https://github.com/chujiezheng/LLM-Safeguard)]
 
 [2024-03-02] 🌱 AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2403.04783)][[Code](https://github.com/XHMY/AutoDefense)]
