@@ -1,13 +1,13 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-03-04] 🌱 On Prompt-Driven Safeguarding for Large Language Models [[Paper](https://arxiv.org/pdf/2401.18018.pdf)][[Code](https://github.com/chujiezheng/LLM-Safeguard)]
+
 [2024-03-02] 🌱 AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2403.04783)][[Code](https://github.com/XHMY/AutoDefense)]
 
 [2024-03-01] 🌱 Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes [[Paper](https://arxiv.org/pdf/2403.00867.pdf)][[Code](https://huggingface.co/spaces/TrustSafeAI/GradientCuff-Jailbreak-Defense)]
 
 [2024-02-25] 💕 Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing [[Paper](https://arxiv.org/pdf/2402.16192.pdf)][[Code](https://github.com/UCSB-NLP-Chang/SemanticSmooth)]
-
-[2024-02-24] 💕 LLMs Can Defend Themselves Against Jailbreaking in a Practical Manner: A Vision Paper [[Paper](https://arxiv.org/pdf/2402.15727.pdf)]
 
 [2024-02-23] 💕 Break the Breakout: Reinventing LM Defense Against Jailbreak Attacks with Self-Refinement [[Paper](https://arxiv.org/pdf/2402.15180.pdf)][[Code](https://anonymous.4open.science/r/refine-a-broken-4E03/)]
 
@@ -17,9 +17,9 @@
 
 [2024-02-21] 💕 GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis [[Paper](https://arxiv.org/pdf/2402.13494.pdf)][[Code](https://github.com/xyq7/GradSafe)]
 
-[2024-02-14] 💕 SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding [[Paper](https://arxiv.org/pdf/2402.08983.pdf)][[Code](https://github.com/uw-nsl/SafeDecoding)]
+[2024-02-19] 💕 Studious Bob Fight Back Against Jailbreaking via Prompt Adversarial Tuning [[Paper]](https://arxiv.org/pdf/2402.06255.pdf)
 
-[2024-01-31] ❄️ Prompt-Driven LLM Safeguarding via Directed Representation Optimization [[Paper](https://arxiv.org/pdf/2401.18018.pdf)][[Code](https://github.com/chujiezheng/LLM-Safeguard)]
+[2024-02-14] 💕 SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding [[Paper](https://arxiv.org/pdf/2402.08983.pdf)][[Code](https://github.com/uw-nsl/SafeDecoding)]
 
 [2024-01-30] ❄️ Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks [[Paper](https://arxiv.org/pdf/2401.17263.pdf)][[Code](https://github.com/andyz245/rpo)]
 
@@ -27,19 +27,25 @@
 
 [2024-01-12] ❄️ Intention Analysis Prompting Makes Large Language Models A Good Jailbreak Defender [[Paper](https://arxiv.org/pdf/2401.06561.pdf)][[Code](https://github.com/alphadl/SafeLLM_with_IntentionAnalysis)]
 
+[2023-12-30] 🎄The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness [[Paper]](https://arxiv.org/pdf/2401.00287.pdf)
+
+[2023-12-29] 🎄 Jatmo: Prompt Injection Defense by Task-Specific Finetuning [[Paper]](https://arxiv.org/pdf/2312.17673.pdf)
+
+[2023-12-12] 🎄Defending Chatgpt against jailbreak attack via self-reminders [[Paper]](https://www.nature.com/articles/s42256-023-00765-8)
+
 [2023-12-12] 🎄 Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack [[Paper](https://arxiv.org/pdf/2312.06924.pdf)][[Code](https://github.com/FYYFU/SafetyAlignNLP)]
 
-[2023-11-20] 🦃 Evil Geniuses: Delving into the Safety of LLM-based Agents [[Paper](https://arxiv.org/pdf/2311.11855.pdf)][[Code](https://github.com/evil-genius-project/evil-genius)]
+[2023-11-15] 🦃Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization[[Paper]](https://arxiv.org/pdf/2311.09096.pdf)
 
 [2023-11-13] 🦃 MART: Improving LLM Safety with Multi-round Automatic Red-Teaming [[Paper](https://arxiv.org/pdf/2311.07689.pdf)]
+
+[2023-10-10] 🎃 Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations [[Paper]](https://arxiv.org/pdf/2310.06387.pdf)
 
 [2023-10-09] 🎃 SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese [[Paper](https://arxiv.org/pdf/2310.05818.pdf)][[Code](https://www.cluebenchmarks.com/)]
 
 [2023-10-05] 🎃 SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [[Paper](https://arxiv.org/pdf/2310.03684.pdf)][[Code](https://github.com/arobey1/smooth-llm)]
 
 [2023-09-18] 🍂 Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM [[Paper](https://arxiv.org/pdf/2309.14348.pdf)][[Code](https://github.com/AAAAAAsuka/llm_defends)]
-
-[2023-09-14] 🍂 Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions [[Paper](https://arxiv.org/pdf/2309.07875.pdf)][[Code](https://github.com/vinid/safety-tuned-llamas)]
 
 [2023-09-13] 🍂 RAIN: Your Language Models Can Align Themselves without Finetuning [[Paper](https://arxiv.org/pdf/2309.07124.pdf)][[Code](https://github.com/SafeAILab/RAIN)]
 
@@ -51,7 +57,8 @@
 
 [2023-08-18] 🌴 Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment [[Paper](https://arxiv.org/pdf/2308.09662.pdf)][[Code](https://github.com/declare-lab/red-instruct)]
 
+[2023-08-14] 🌴 LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked [[Paper]](https://arxiv.org/pdf/2308.07308.pdf)
+
 [2023-08-02] 🌴 XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models [[Paper](https://arxiv.org/pdf/2308.01263.pdf)][[Code](https://github.com/paul-rottger/exaggerated-safety)]
 
 [2023-07-17] 🍦 Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models [[Paper](https://arxiv.org/pdf/2307.08487.pdf)][[Code](https://github.com/qiuhuachuan/latent-jailbreak)]
-
