@@ -6,7 +6,10 @@ Welcome to JailbreakingZoo, a dedicated repository focused on the jailbreaking o
 
 ## Timeline
 
-This repository's contents are systematically organized according to a timeline, with the latest update being March 14, 2024.
+This repository is systematically organized according to the publication timeline.
+
+:fire::fire::fire: <span style="font-size:xx-large;">The latest update being March 21, 2024</span> :fire::fire::fire:
+
 
 ## Contents
 
@@ -17,6 +20,18 @@ This repository's contents are systematically organized according to a timeline,
 - [**Jailbreaks of VLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/VLM_Jailbreak.md): Learn about the vulnerabilities and jailbreaking approaches specific to vision language models.
 
 - [**Defenses of VLMs**](https://github.com/Allen-piexl/JailbreakingZoo/blob/main/Papers/VLM_Defense.md): Understand the defense mechanisms designed for vision language models, including the most recent advancements and strategies.
+
+## Badges
+
+- Jailbreaks of LLMs: ![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen) ![Prompt-based](https://img.shields.io/badge/-Prompt--based-red) ![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange) ![Query-based](https://img.shields.io/badge/-Query--based-lightgrey) ![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen) ![Survey](https://img.shields.io/badge/-Survey-ff69b4)
+
+- Defenses of LLMs:
+
+- Jailbreaks of VLMs:
+
+- Defenses of VLMs:
+
+- Model Access: ![Blackbox](https://img.shields.io/badge/-Blackbox-black) ![Whitebox](https://img.shields.io/badge/-Whitebox-white)
 
 ## Contributing
 
