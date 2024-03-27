@@ -5,7 +5,7 @@
 
 [2024-03-20] 🌱 Jailbreaking is Best Solved by Definition [[Paper]](https://arxiv.org/pdf/2403.14725.pdf) [[Code]](https://github.com/kothasuhas/purple-problem)
 
-[2024-03-15] 🌱 Bergeron: Combating Adversarial Attacks through a Conscience-Based Alignment Framework [[Paper]](https://arxiv.org/pdf/2312.00029.pdf)
+[2024-03-15] 🌱 Bergeron: Combating Adversarial Attacks through a Conscience-Based Alignment Framework [[Paper]](https://arxiv.org/pdf/2312.00029.pdf) [[Code]](https://github.com/matthew-pisano/Bergeron)
 
 [2024-03-04] 🌱 On Prompt-Driven Safeguarding for Large Language Models [[Paper]](https://arxiv.org/pdf/2401.18018.pdf) [[Code]](https://github.com/chujiezheng/LLM-Safeguard)
 
