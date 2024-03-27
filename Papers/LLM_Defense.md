@@ -49,7 +49,7 @@
 
 [2023-10-09] 🎃 SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese [[Paper]](https://arxiv.org/pdf/2310.05818.pdf) [[Code]](https://www.cluebenchmarks.com/)
 
-[2023-10-05] 🎃 SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [[Paper]]((https://arxiv.org/pdf/2310.03684.pdf) [[Code]](https://github.com/arobey1/smooth-llm)
+[2023-10-05] 🎃 SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [[Paper]](https://arxiv.org/pdf/2310.03684.pdf) [[Code]](https://github.com/arobey1/smooth-llm)
 
 [2023-09-18] 🍂 Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM [[Paper]](https://arxiv.org/pdf/2309.14348.pdf) [[Code]](https://github.com/AAAAAAsuka/llm_defends)
 
