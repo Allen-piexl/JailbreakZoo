@@ -32,7 +32,7 @@
 
 [2024-02-19] 💕 Query-Based Adversarial Prompt Generation [[Paper](https://arxiv.org/pdf/2402.12329.pdf)]![Query-based](https://img.shields.io/badge/-Query--based-lightgrey)
 
-[2024-02-19] 💕 ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs [[Paper](https://arxiv.org/pdf/2402.11753.pdf)][[Code](https://github.com/uw-nsl/ArtPrompt)]![Query-based](https://img.shields.io/badge/-Query--based-lightgrey) ![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
+[2024-02-19] 💕 ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs [[Paper](https://arxiv.org/pdf/2402.11753.pdf)][[Code](https://github.com/uw-nsl/ArtPrompt)] ![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
 [2024-02-19] 💕 SPML: A DSL for Defending Language Models Against Prompt Attacks [[Paper](https://arxiv.org/pdf/2402.11755.pdf)][[Code](https://prompt-compiler.github.io/SPML/)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
