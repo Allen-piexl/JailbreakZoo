@@ -20,7 +20,7 @@
 
 [2024-02-24] 💕 PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails [[Paper](https://arxiv.org/pdf/2402.15911.pdf)]![Prompt-based](https://img.shields.io/badge/-Prompt--based-red)![Query-based](https://img.shields.io/badge/-Query--based-lightgrey)![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
-[2024-02-23] 💕 How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries [[Paper](https://arxiv.org/pdf/2402.15302.pdf)][[Code](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA)]![Query-based](https://img.shields.io/badge/-Query--based-lightgrey) ![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
+[2024-02-23] 💕 How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries [[Paper](https://arxiv.org/pdf/2402.15302.pdf)][[Code](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA)] ![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
 [2024-02-21] 💕 Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts Against Open-source LLMs [[Paper](https://arxiv.org/pdf/2402.14872.pdf)]![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)
 
