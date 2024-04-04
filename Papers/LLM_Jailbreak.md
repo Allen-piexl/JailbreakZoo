@@ -10,7 +10,7 @@
 [2024-03-28] 🌱 JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2404.01318.pdf)][[Code](https://github.com/JailbreakBench/jailbreakbench)]
 
 
-[2024-03-19] 🌱 RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content[[Paper](https://arxiv.org/pdf/2403.13031.pdf)]![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
+[2024-03-19] 🌱 RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content [[Paper](https://arxiv.org/pdf/2403.13031.pdf)]![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
 [2024-03-18] 🌱 EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2403.12171.pdf)][[Code](https://github.com/EasyJailbreak/EasyJailbreak)]![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
 
