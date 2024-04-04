@@ -8,7 +8,7 @@ Welcome to JailbreakingZoo, a dedicated repository focused on the jailbreaking o
 
 This repository is systematically organized according to the publication timeline.
 
-:fire::fire::fire: <span style="font-size:xx-large;">The latest update being March 25, 2024</span> :fire::fire::fire:
+:fire::fire::fire: <span style="font-size:xx-large;">The latest update being April 04, 2024</span> :fire::fire::fire:
 
 
 ## Contents
