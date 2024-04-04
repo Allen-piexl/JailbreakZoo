@@ -1,6 +1,15 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-04-02] 🌸 Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack [[Paper](https://arxiv.org/pdf/2404.01833.pdf)]
+
+[2024-04-02] 🌸 Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks [[Paper](https://arxiv.org/pdf/2404.02151.pdf)][[Code](https://github.com/tml-epfl/llm-adaptive-attacks)]
+
+[2024-04-02] 🌸 Many-shot Jailbreaking [[Paper](https://cdn.sanity.io/files/4zrzovbb/website/af5633c94ed2beb282f6a53c595eb437e8e7b630.pdf)]
+
+[2024-03-28] 🌱 JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2404.01318.pdf)][[Code](https://github.com/JailbreakBench/jailbreakbench)]
+
+
 [2024-03-19] 🌱 RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content[[Paper](https://arxiv.org/pdf/2403.13031.pdf)]![Gradient-based](https://img.shields.io/badge/-Gradient--based-blue) ![Optimization-based](https://img.shields.io/badge/-Optimization--based-brightgreen)![Decomposition-based](https://img.shields.io/badge/-Decomposition--based-orange)
 
 [2024-03-18] 🌱 EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2403.12171.pdf)][[Code](https://github.com/EasyJailbreak/EasyJailbreak)]![Evaluation](https://img.shields.io/badge/-Evaluation-yellowgreen)
