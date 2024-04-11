@@ -1,6 +1,10 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-04-09] 🌸 AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts [[Paper](https://arxiv.org/pdf/2404.05993.pdf)]
+
+[2024-04-08] 🌸 Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge [[Paper](https://arxiv.org/pdf/2404.05880.pdf)][[Code](https://anonymous.4open.science/r/Eraser-537E/)]
+
 [2024-03-21] 🌱 Detoxifying Large Language Models via Knowledge Editing [[Paper]](https://arxiv.org/pdf/2403.14472.pdf) [[Code]](https://github.com/zjunlp/EasyEdit)
 
 [2024-03-20] 🌱 Jailbreaking is Best Solved by Definition [[Paper]](https://arxiv.org/pdf/2403.14725.pdf) [[Code]](https://github.com/kothasuhas/purple-problem)
