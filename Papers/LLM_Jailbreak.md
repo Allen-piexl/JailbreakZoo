@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-04-09] 🌸 Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak [[Paper](https://arxiv.org/pdf/2404.06407.pdf)][[Code](https://github.com/controllability/jailbreak-evaluation)]
+
 [2024-04-05] 🌸 Increased LLM Vulnerabilities from Fine-tuning and Quantization [[Code](https://arxiv.org/pdf/2404.04392.pdf)]
 
 [2024-04-02] 🌸 Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack [[Paper](https://arxiv.org/pdf/2404.01833.pdf)]
