@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to JailbreakingZoo, a dedicated repository focused on the jailbreaking of large models (LMs), encompassing both large language models (LLMs) and vision language models (VLMs). This project aims to explore the vulnerabilities, exploit methods, and defense mechanisms associated with these advanced AI models. Our goal is to foster a deeper understanding and awareness of the security aspects surrounding large-scale AI systems.
+Welcome to JailbreakZoo, a dedicated repository focused on the jailbreaking of large models (LMs), encompassing both large language models (LLMs) and vision language models (VLMs). This project aims to explore the vulnerabilities, exploit methods, and defense mechanisms associated with these advanced AI models. Our goal is to foster a deeper understanding and awareness of the security aspects surrounding large-scale AI systems.
 
 ## Timeline
 
