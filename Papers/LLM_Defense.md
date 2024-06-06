@@ -1,6 +1,22 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-06-03] ☀️ BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards [[Paper](https://arxiv.org/pdf/2406.01364)]
+
+[2024-05-30] 🌺 Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2405.20099)][[Code](https://huggingface.co/spaces/TrustSafeAI/Defensive-Prompt-Patch-Jailbreak-Defense)]
+
+[2024-05-28] 🌺 Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing [[Paper](https://arxiv.org/pdf/2405.18166)][[Code](https://github.com/ledllm/ledllm)]
+
+[2024-05-24] 🌺 Robustifying Safety-Aligned Large Language Models through Clean Data Curation [[Paper](https://arxiv.org/pdf/2405.19358)][[Code](https://anonymous.4open.science/r/LLM-Safety-41C2/)]
+
+[2024-05-24] 🌺 Efficient Adversarial Training in LLMs with Continuous Attacks [[Paper](https://arxiv.org/pdf/2405.15589)]
+
+[2024-05-24] 🌺 Cross-Task Defense: Instruction-Tuning LLMs for Content Safety [[Paper](https://arxiv.org/pdf/2405.15202)][[Code](https://github.com/FYYFU/safety-defense)]
+
+[2024-04-22] 🌸 Protecting Your LLMs with Information Bottleneck [[Paper](https://arxiv.org/pdf/2404.13968)]
+
+[2024-04-19] 🌸 The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions [[Paper](https://arxiv.org/pdf/2404.13208)]
+
 [2024-04-09] 🌸 AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts [[Paper](https://arxiv.org/pdf/2404.05993.pdf)]
 
 [2024-04-08] 🌸 Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge [[Paper](https://arxiv.org/pdf/2404.05880.pdf)][[Code](https://anonymous.4open.science/r/Eraser-537E/)]
