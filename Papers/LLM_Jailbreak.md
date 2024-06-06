@@ -1,7 +1,41 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
-[2024-04-09] 🌸 Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak [[Paper](https://arxiv.org/pdf/2404.06407.pdf)][[Code](https://github.com/controllability/jailbreak-evaluation)]
+[2024-06-03] ☀️ Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses [[Paper](https://arxiv.org/pdf/2406.01288)][[Code](https://github.com/sail-sg/I-FSJ)]
+
+[2024-05-31] 🌺 Improved Techniques for Optimization-Based Jailbreaking on Large Language Models [[Paper](https://arxiv.org/pdf/2405.21018)][[Code](https://github.com/jiaxiaojunQAQ/I-GCG)]
+
+[2024-05-30] 🌺 Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters [[Paper](https://arxiv.org/pdf/2405.20413)][[Code](https://github.com/Allen-piexl/llm_moderation_attack)]
+
+[2024-05-28] 🌺 Improved Generation of Adversarial Examples Against Safety-aligned LLMs [[Paper](https://arxiv.org/pdf/2405.20778)]
+
+[2024-05-24] 🌺 Hacc-Man: An Arcade Game for Jailbreaking LLMs [[Paper](https://arxiv.org/pdf/2405.15902)]
+
+[2024-05-21] 🌺 GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation [[Paper](https://arxiv.org/pdf/2405.13077)]
+
+[2024-05-20] 🌺 Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation [[Paper](https://arxiv.org/pdf/2405.13068)]
+
+[2024-05-09] 🌺 Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM [[Paper](https://arxiv.org/pdf/2405.05610)][[Code](https://github.com/YancyKahn/CoA)]
+
+[2024-05-06] 🌺 Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent [[Paper](https://arxiv.org/pdf/2405.03654)]
+
+[2024-04-24] 🌸 Universal Adversarial Triggers Are Not Universal [[Paper](https://arxiv.org/pdf/2404.16020)][[Code](https://github.com/McGill-NLP/AdversarialTriggers)]
+
+[2024-04-22] 🌸 Competition Report: Finding Universal Jailbreak Backdoors in Aligned LLMs [[Paper](https://arxiv.org/pdf/2404.14461)][[Code](https://github.com/ethz-spylab/rlhf_trojan_competition)]
+
+[2024-04-21] 🌸 AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs [[Paper](https://arxiv.org/pdf/2404.16873)][[Code](https://github.com/facebookresearch/advprompter)]
+
+[2024-04-12] 🌸 JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models [[Paper](https://arxiv.org/pdf/2404.08793)]
+
+[2024-04-11] 🌸 AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs LLM [[Paper](https://arxiv.org/pdf/2404.07921)][[Code](https://github.com/OSU-NLP-Group/AmpleGCG)]
+
+[2024-04-09] 🌸 Sandwich attack: Multi-language Mixture Adaptive Attack on LLMs [[Paper](https://arxiv.org/pdf/2404.07242)]
+
+[2024-04-09] 🌸 AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts [[Paper](https://arxiv.org/pdf/2404.05993)]
+
+[2024-04-09] 🌸 Rethinking How to Evaluate Language Model Jailbreak [[Paper](https://arxiv.org/pdf/2404.06407v3)][[Code](https://github.com/controllability/jailbreak-evaluation)]
+
+[2024-04-08] 🌸 Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge [[Paper](https://arxiv.org/pdf/2404.05880)]
 
 [2024-04-05] 🌸 Increased LLM Vulnerabilities from Fine-tuning and Quantization [[Code](https://arxiv.org/pdf/2404.04392.pdf)]
 
