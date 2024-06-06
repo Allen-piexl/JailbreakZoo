@@ -31,8 +31,6 @@
 
 [2024-04-09] 🌸 Sandwich attack: Multi-language Mixture Adaptive Attack on LLMs [[Paper](https://arxiv.org/pdf/2404.07242)]
 
-[2024-04-09] 🌸 AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts [[Paper](https://arxiv.org/pdf/2404.05993)]
-
 [2024-04-09] 🌸 Rethinking How to Evaluate Language Model Jailbreak [[Paper](https://arxiv.org/pdf/2404.06407v3)][[Code](https://github.com/controllability/jailbreak-evaluation)]
 
 [2024-04-08] 🌸 Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge [[Paper](https://arxiv.org/pdf/2404.05880)]
