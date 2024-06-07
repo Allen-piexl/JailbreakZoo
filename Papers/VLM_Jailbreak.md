@@ -1,6 +1,12 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+
+[2024-05-26] 🌺 Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models VLM [[Paper](https://arxiv.org/pdf/2405.20775)][[Code](https://github.com/dirtycomputer/O2M_attack)]
+
+[2024-05-25] 🌺 Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte VLM [[Paper](https://arxiv.org/pdf/2405.20773)]
+
+
 [2024-04-04] 🌸 Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks? [[Paper](https://arxiv.org/pdf/2404.03411.pdf)][[Code](https://anonymous.4open.science/r/red_teaming_gpt4-C1CE/)]
 
 [2024-04-03] 🌸 JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2404.03027.pdf)][[Code](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k)]
