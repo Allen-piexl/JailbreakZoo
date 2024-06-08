@@ -1,4 +1,4 @@
-# JailbreakZoo: Survey, Landscapes, and Horizons in the Jailbreaking of Large Models
+# JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models
 
 ## Introduction
 
