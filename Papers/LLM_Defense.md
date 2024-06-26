@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-06-05] ☀️ Defending Large Language Models Against Attacks With Residual Stream Activation Analysis [[Paper](https://arxiv.org/pdf/2406.03230)]
+
 [2024-06-03] ☀️ BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards [[Paper](https://arxiv.org/pdf/2406.01364)]
 
 [2024-05-30] 🌺 Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2405.20099)][[Code](https://huggingface.co/spaces/TrustSafeAI/Defensive-Prompt-Patch-Jailbreak-Defense)]
