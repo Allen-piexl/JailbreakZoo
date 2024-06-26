@@ -1,6 +1,7 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-06-06] ☀️ Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt [[Paper](https://arxiv.org/pdf/2406.04031)][[Code](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)]
 
 [2024-05-29] 🌺 Voice Jailbreak Attacks Against GPT-4o [[Paper](https://arxiv.org/pdf/2405.19103)][[Code](https://github.com/TrustAIRLab/VoiceJailbreakAttack)]
 
