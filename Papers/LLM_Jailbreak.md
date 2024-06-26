@@ -1,6 +1,22 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-06-20] ☀️ Adversaries Can Misuse Combinations of Safe Models [[Paper](https://arxiv.org/pdf/2406.14595)][[Code](https://github.com/ejones313/multi-model-misuse)]
+
+[2024-06-18] ☀️ Jailbreak Paradox: The Achilles' Heel of LLMs [[Paper](https://arxiv.org/pdf/2406.12702)]
+
+[2024-06-17] ☀️ "Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak [[Paper](https://arxiv.org/pdf/2406.11668)][[Code](https://github.com/Meirtz/BabyBLUE-llm)]
+
+[2024-06-17] ☀️ Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack [[Paper](https://arxiv.org/pdf/2406.11682)][[Code](https://github.com/THU-KEG/Knowledge-to-Jailbreak/)]
+
+[2024-06-13] ☀️ Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models [[Paper](https://arxiv.org/pdf/2406.09289)][[Code](https://github.com/s-ball-10/jailbreak_dynamics)]
+
+[2024-06-13] ☀️ StructuralSleight: Automated Jailbreak Attacks on Large Language Models Utilizing Uncommon Text-Encoded Structure [[Paper](https://arxiv.org/pdf/2406.08754)]
+
+[2024-06-13] ☀️ When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search [Paper](https://arxiv.org/pdf/2406.08705)]
+
+[2024-06-13] ☀️ RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack against LLMs [Paper](https://arxiv.org/pdf/2406.08725)]
+
 [2024-06-13] ☀️ Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs [Paper](https://arxiv.org/pdf/2406.09324)][[Code](https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking)]
 
 [2024-06-13] ☀️ How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States [[Paper](https://arxiv.org/pdf/2406.05644)][[Code](https://github.com/ydyjya/LLM-IHS-Explanation)]
