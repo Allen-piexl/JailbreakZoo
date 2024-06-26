@@ -1,6 +1,10 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-06-07] ☀️ Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs [[Paper](https://arxiv.org/pdf/2406.06622)]
+
+[2024-06-06] ☀️ Improving Alignment and Robustness with Circuit Breakers [[Paper](https://arxiv.org/pdf/2406.04313)][[Code](https://github.com/blackswan-ai/circuit-breakers)]
+
 [2024-06-05] ☀️ Defending Large Language Models Against Attacks With Residual Stream Activation Analysis [[Paper](https://arxiv.org/pdf/2406.03230)]
 
 [2024-06-03] ☀️ BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards [[Paper](https://arxiv.org/pdf/2406.01364)]
