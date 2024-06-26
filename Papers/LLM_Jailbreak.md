@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-06-06] ☀️ AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens [[Paper](https://arxiv.org/pdf/2406.03805)]
+
 [2024-06-03] ☀️ Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses [[Paper](https://arxiv.org/pdf/2406.01288)][[Code](https://github.com/sail-sg/I-FSJ)]
 
 [2024-05-31] 🌺 Improved Techniques for Optimization-Based Jailbreaking on Large Language Models [[Paper](https://arxiv.org/pdf/2405.21018)][[Code](https://github.com/jiaxiaojunQAQ/I-GCG)]
