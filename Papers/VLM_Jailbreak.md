@@ -5,6 +5,8 @@
 
 [2024-05-29] 🌺 Voice Jailbreak Attacks Against GPT-4o [[Paper](https://arxiv.org/pdf/2405.19103)][[Code](https://github.com/TrustAIRLab/VoiceJailbreakAttack)]
 
+[2024-05-27] 🌺 Cross-Modal Safety Alignment: Is textual unlearning all you need? [[Paper](https://arxiv.org/pdf/2406.02575)]
+
 [2024-05-26] 🌺 Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models VLM [[Paper](https://arxiv.org/pdf/2405.20775)][[Code](https://github.com/dirtycomputer/O2M_attack)]
 
 [2024-05-25] 🌺 Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte VLM [[Paper](https://arxiv.org/pdf/2405.20773)]
