@@ -1,7 +1,7 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
-
+[2024-06-13] ☀️ Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs [Paper](https://arxiv.org/pdf/2406.09324)][[Code](https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking)]
 
 [2024-06-13] ☀️ How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States [[Paper](https://arxiv.org/pdf/2406.05644)][[Code](https://github.com/ydyjya/LLM-IHS-Explanation)]
 
