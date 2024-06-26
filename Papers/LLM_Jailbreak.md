@@ -2,6 +2,11 @@
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
 
+
+[2024-06-13] ☀️ How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States [[Paper](https://arxiv.org/pdf/2406.05644)][[Code](https://github.com/ydyjya/LLM-IHS-Explanation)]
+
+[2024-06-11] ☀️ Merging Improves Self-Critique Against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2406.07188)][[Code](https://github.com/vicgalle/merging-self-critique-jailbreaks)]
+
 [2024-06-06] ☀️ AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens [[Paper](https://arxiv.org/pdf/2406.03805)]
 
 [2024-06-03] ☀️ Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses [[Paper](https://arxiv.org/pdf/2406.01288)][[Code](https://github.com/sail-sg/I-FSJ)]
