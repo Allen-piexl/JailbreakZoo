@@ -1,6 +1,7 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+
 [2024-06-06] ☀️ AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens [[Paper](https://arxiv.org/pdf/2406.03805)]
 
 [2024-06-03] ☀️ Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses [[Paper](https://arxiv.org/pdf/2406.01288)][[Code](https://github.com/sail-sg/I-FSJ)]
@@ -8,6 +9,8 @@
 [2024-05-31] 🌺 Improved Techniques for Optimization-Based Jailbreaking on Large Language Models [[Paper](https://arxiv.org/pdf/2405.21018)][[Code](https://github.com/jiaxiaojunQAQ/I-GCG)]
 
 [2024-05-30] 🌺 Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters [[Paper](https://arxiv.org/pdf/2405.20413)][[Code](https://github.com/Allen-piexl/llm_moderation_attack)]
+
+[2024-05-28] 🌺 Are PPO-ed Language Models Hackable? [[Paper](https://arxiv.org/pdf/2406.02577)]
 
 [2024-05-28] 🌺 Improved Generation of Adversarial Examples Against Safety-aligned LLMs [[Paper](https://arxiv.org/pdf/2405.20778)]
 
