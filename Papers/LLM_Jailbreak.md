@@ -1,6 +1,24 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-07-02] 🍦 SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack [[Paper](https://arxiv.org/pdf/2407.01902)][[Code](https://github.com/Yang-Yan-Yang-Yan/SoP)]
+
+[2024-07-02] 🍦A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses [[Paper](https://arxiv.org/pdf/2407.02551)]
+
+[2024-07-01] 🍦Badllama 3: removing safety finetuning from Llama 3 in minutes [[Paper](https://arxiv.org/pdf/2407.01376)]
+
+[2024-06-28] ☀️ Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection [[Paper](https://arxiv.org/pdf/2406.19845)]
+
+[2024-06-28] ☀️ Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation [[Paper](https://arxiv.org/pdf/2406.20053)]
+
+[2024-06-26] ☀️ JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.01599)][[Code](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)]
+
+[2024-06-26] ☀️ Poisoned LangChain: Jailbreak LLMs by LangChain [[Paper](https://arxiv.org/pdf/2406.18122)][[Code](https://github.com/CAM-FSS/jailbreak-langchain)]
+
+[2024-06-26] ☀️ WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs [[Paper](https://arxiv.org/pdf/2406.18495)][[Code](https://github.com/allenai/wildguard)]
+
+[2024-06-26] ☀️ WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models [[Paper](https://arxiv.org/pdf/2406.18510)][[Code](https://huggingface.co/datasets/allenai/wildjailbreak)]
+
 [2024-06-20] ☀️ Adversaries Can Misuse Combinations of Safe Models [[Paper](https://arxiv.org/pdf/2406.14595)][[Code](https://github.com/ejones313/multi-model-misuse)]
 
 [2024-06-18] ☀️ Jailbreak Paradox: The Achilles' Heel of LLMs [[Paper](https://arxiv.org/pdf/2406.12702)]
