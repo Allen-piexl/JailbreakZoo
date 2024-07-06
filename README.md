@@ -10,7 +10,7 @@ Our website can be found in [here](https://chonghan-chen.com/llm-jailbreak-zoo-s
 
 This repository is systematically organized according to the publication timeline.
 
-:fire::fire::fire: <span style="font-size:xx-large;">The latest update being June 25, 2024</span> :fire::fire::fire:
+:fire::fire::fire: <span style="font-size:xx-large;">The latest update being July 05, 2024</span> :fire::fire::fire:
 
 
 ## Contents
