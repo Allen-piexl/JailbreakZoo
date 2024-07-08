@@ -6,6 +6,8 @@ Welcome to JailbreakZoo, a dedicated repository focused on the jailbreaking of l
 
 Our website can be found in [here](https://chonghan-chen.com/llm-jailbreak-zoo-survey/)
 
+Our paper can be found in [here](https://arxiv.org/pdf/2407.01599)
+
 ## Timeline
 
 This repository is systematically organized according to the publication timeline.
