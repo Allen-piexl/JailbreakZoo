@@ -38,6 +38,6 @@ Thank you for visiting JailbreakZoo. We hope this repository serves as a valuabl
 
 ## Acknowledgement
 
-Special thanks to our notable contributors: [**Haibo Jin**](https://github.com/Allen-piexl/), [**Leyang Hu**](https://github.com/Leon-Leyang), [**Xinuo Li**](https://github.com/monmonli), [**Peiyan Zhang**](https://github.com/Peiyance), [**Chonghan Chen**](https://github.com/PaulCCCCCCH), [**Jun Zhuang**](https://github.com/junzhuang-code), and [**Haohan Wang**](https://github.com/HaohanWang). 
+Special thanks to our notable contributors: [**Haibo Jin**](https://haibojin001.github.io/), [**Leyang Hu**](https://github.com/Leon-Leyang), [**Xinuo Li**](https://github.com/monmonli), [**Peiyan Zhang**](https://peiyance.github.io/), [**Chonghan Chen**](https://paulcccccch.github.io/), [**Jun Zhuang**](https://junzhuang.xyz/), and [**Haohan Wang**](https://haohanwang.github.io/). 
 
 *The ranking is in partial order.
