@@ -1,6 +1,10 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-07-05] 🍦 Jailbreak Attacks and Defenses Against Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2407.03876)]
+
+[2024-07-04] 🍦 DART: Deep Adversarial Automated Red Teaming for LLM Safety [[Paper](https://arxiv.org/pdf/2407.03876)]
+ 
 [2024-07-02] 🍦 SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack [[Paper](https://arxiv.org/pdf/2407.01902)][[Code](https://github.com/Yang-Yan-Yang-Yan/SoP)]
 
 [2024-07-02] 🍦 A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses [[Paper](https://arxiv.org/pdf/2407.02551)]
