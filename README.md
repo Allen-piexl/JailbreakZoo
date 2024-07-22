@@ -12,7 +12,7 @@ Our paper can be found in [here](https://arxiv.org/pdf/2407.01599)
 
 This repository is systematically organized according to the publication timeline.
 
-:fire::fire::fire: <span style="font-size:xx-large;">The latest update being July 05, 2024</span> :fire::fire::fire:
+:fire::fire::fire: <span style="font-size:xx-large;">The latest update being July 21, 2024</span> :fire::fire::fire:
 
 
 ## Contents
