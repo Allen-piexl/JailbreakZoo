@@ -41,3 +41,12 @@ Thank you for visiting JailbreakZoo. We hope this repository serves as a valuabl
 Special thanks to our notable contributors: [**Haibo Jin**](https://haibojin001.github.io/), [**Leyang Hu**](https://github.com/Leon-Leyang), [**Xinuo Li**](https://github.com/monmonli), [**Peiyan Zhang**](https://peiyance.github.io/), [**Chonghan Chen**](https://paulcccccch.github.io/), [**Jun Zhuang**](https://junzhuang.xyz/), and [**Haohan Wang**](https://haohanwang.github.io/). 
 
 *The ranking is in partial order.
+
+## Reference
+
+@article{jin2024jailbreakzoo,
+  title={JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models},
+  author={Jin, Haibo and Hu, Leyang and Li, Xinuo and Zhang, Peiyan and Chen, Chonghan and Zhuang, Jun and Wang, Haohan},
+  journal={arXiv preprint arXiv:2407.01599},
+  year={2024}
+}
