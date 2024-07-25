@@ -1,6 +1,12 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-07-23] 🍦 Can Large Language Models Automatically Jailbreak GPT-4V? [[Paper](https://arxiv.org/pdf/2407.16686)]
+
+[2024-07-21] 🍦 Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts [[Paper](https://arxiv.org/pdf/2407.15050)]
+ 
+[2024-07-21] 🍦 When Do Universal Image Jailbreaks Transfer Between Vision-Language Models? [[Paper](https://arxiv.org/pdf/2407.15211)]
+
 [2024-07-01] 🍦 Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything [[Paper](https://arxiv.org/pdf/2407.02534)]
 
 [2024-06-10] ☀️ Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2406.06302)][[Code](https://github.com/NY1024/Jailbreak_GPT4o)]
