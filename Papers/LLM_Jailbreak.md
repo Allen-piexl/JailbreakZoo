@@ -1,6 +1,16 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-07-23] 🍦Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models [[Paper](https://arxiv.org/pdf/2407.16205)]
+
+[2024-07-23] 🍦 RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent [[Paper](https://arxiv.org/pdf/2407.16667)]
+
+[2024-07-22] 🍦 Imposter.AI: Adversarial Attacks with Hidden Intentions towards Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2407.15399)]
+
+[2024-07-19] 🍦 Does Refusal Training in LLMs Generalize to the Past Tense? [[Paper](https://arxiv.org/pdf/2407.11969)][[Code](https://github.com/tml-epfl/llm-past-tense)]
+
+[2024-07-16] 🍦 Continuous Embedding Attacks via Clipped Inputs in Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2407.13796)][[Code](https://github.com/ltroin/Clip1)]
+
 [2024-07-05] 🍦 Jailbreak Attacks and Defenses Against Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2407.03876)]
 
 [2024-07-04] 🍦 DART: Deep Adversarial Automated Red Teaming for LLM Safety [[Paper](https://arxiv.org/pdf/2407.03876)]
