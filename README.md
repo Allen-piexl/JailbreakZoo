@@ -44,14 +44,10 @@ Special thanks to our notable contributors: [**Haibo Jin**](https://haibojin001.
 
 ## Reference
 
+```bibtex
 @article{jin2024jailbreakzoo,
-
   title={JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models},
-  
   author={Jin, Haibo and Hu, Leyang and Li, Xinuo and Zhang, Peiyan and Chen, Chonghan and Zhuang, Jun and Wang, Haohan},
-  
   journal={arXiv preprint arXiv:2407.01599},
-  
   year={2024}
-  
 }
