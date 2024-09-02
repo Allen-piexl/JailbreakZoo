@@ -1,7 +1,13 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
-[2024-07-23] 🍦Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models [[Paper](https://arxiv.org/pdf/2407.16205)]
+[2024-07-25] 🍦 
+
+[2024-07-25] 🍦 Exploring Scaling Trends in LLM Robustness [[Paper](https://arxiv.org/pdf/2407.18213)]
+
+[2024-07-25] 🍦 The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models [[Paper](https://arxiv.org/pdf/2407.17915)][[Code](https://github.com/wooozihui/jailbreakfunction)]
+
+[2024-07-23] 🍦 Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models [[Paper](https://arxiv.org/pdf/2407.16205)]
 
 [2024-07-23] 🍦 RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent [[Paper](https://arxiv.org/pdf/2407.16667)]
 
