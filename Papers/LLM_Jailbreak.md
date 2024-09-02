@@ -1,6 +1,10 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-08-27] 🌴 Detecting AI Flaws: Target-Driven Attacks on Internal Faults in Language Models [[Paper](https://arxiv.org/pdf/2408.14853)]
+
+[2024-08-27] 🌴 Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2408.14866)]
+ 
 [2024-08-21] 🌴 Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer [[Paper](https://arxiv.org/pdf/2408.11313)][[Code](https://github.com/lenijwp/ECLIPSE)]
 
 [2024-08-20] 🌴 Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles [[Paper](https://arxiv.org/pdf/2408.11182)]
