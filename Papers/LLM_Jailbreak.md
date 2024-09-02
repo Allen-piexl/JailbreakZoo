@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-08-20] 🌴 Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation [[Paper](https://arxiv.org/pdf/2408.10668)]
+
 [2024-08-09] 🌴 Jailbreak Open-Sourced Large Language Models via Enforced Decoding [[Paper](https://aclanthology.org/2024.acl-long.299.pdf)]
 
 [2024-08-09] 🌴 h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment [[Paper](https://arxiv.org/pdf/2408.04811)]
