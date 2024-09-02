@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-08-25] 🌴 RT-Attack: Jailbreaking Text-to-Image Models via Random Token [[Paper](https://arxiv.org/pdf/2408.13896)]
+
 [2024-08-16] 🌴 MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models [[Paper](https://arxiv.org/pdf/2408.08464)]
 
 [2024-08-01] 🌴 Jailbreaking Text-to-Image Models with LLM-Based Agents [[Paper](https://arxiv.org/pdf/2408.00523)]
