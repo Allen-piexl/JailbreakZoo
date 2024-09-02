@@ -3,6 +3,8 @@
 
 [2024-07-23] 🍦 PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing [[Paper](https://arxiv.org/pdf/2407.16318)]
 
+[2024-07-06] 🍦 Defending LLMs against Jailbreaking Attacks via Backtranslation [[Paper](https://arxiv.org/pdf/2402.16459)]
+
 [2024-07-03] 🍦 Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2407.02855)][[Code](https://github.com/thu-coai/SafeUnlearning)]
 
 [2024-06-26] ☀️ SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance [[Paper](https://arxiv.org/pdf/2406.18118)]
