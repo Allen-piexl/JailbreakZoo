@@ -1,9 +1,13 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-08-21] 🌴 Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer [[Paper](https://arxiv.org/pdf/2408.11313)][[Code](https://github.com/lenijwp/ECLIPSE)]
+
 [2024-08-20] 🌴 Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles [[Paper](https://arxiv.org/pdf/2408.11182)]
 
 [2024-08-20] 🌴 Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation [[Paper](https://arxiv.org/pdf/2408.10668)]
+
+[2024-08-14] 🌴 SAGE-RT: Synthetic Alignment data Generation for Safety Evaluation and Red Teaming [[Paper](https://arxiv.org/pdf/2408.11851)]
 
 [2024-08-09] 🌴 Jailbreak Open-Sourced Large Language Models via Enforced Decoding [[Paper](https://aclanthology.org/2024.acl-long.299.pdf)]
 
