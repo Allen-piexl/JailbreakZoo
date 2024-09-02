@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-08-21] 🌴 EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models [[Paper](https://arxiv.org/pdf/2408.11308)]
+ 
 [2024-08-15] 🌴 Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks [[Paper](https://arxiv.org/pdf/2408.08924)][[Code](https://github.com/weiyezhimeng/Prefix-Guidance)]
 
 [2024-07-23] 🍦 PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing [[Paper](https://arxiv.org/pdf/2407.16318)]
