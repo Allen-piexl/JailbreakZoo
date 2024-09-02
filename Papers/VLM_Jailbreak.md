@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-08-01] 🌴 Jailbreaking Text-to-Image Models with LLM-Based Agents [[Paper](https://arxiv.org/pdf/2408.00523)]
+
 [2024-07-23] 🍦 Can Large Language Models Automatically Jailbreak GPT-4V? [[Paper](https://arxiv.org/pdf/2407.16686)]
 
 [2024-07-21] 🍦 Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts [[Paper](https://arxiv.org/pdf/2407.15050)]
