@@ -1,6 +1,8 @@
 # Timeline 🚀 
 (Jan:❄️, Feb:💕, Mar:🌱, Apr:🌸, May:🌺, Jun:☀️, Jul:🍦, Aug:🌴, Sep:🍂, Oct:🎃, Nov:🦃, Dec:🎄)
 
+[2024-08-17] 🌴 BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger [[Paper](https://arxiv.org/pdf/2408.09093)]
+
 [2024-07-31] 🍦 Defending Jailbreak Attack in VLMs via Cross-modality Information Detector [[Paper](https://arxiv.org/pdf/2407.21659)]
 
 [2024-06-11] ☀️ MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2406.07594)][[Code](https://github.com/Carol-gutianle/MLLMGuard)]
